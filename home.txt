@@ -1,4 +1,2011 @@
-====== Door43 (szg) ======
+\id mrk Unlocked Literal Bible
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
+\ide usfm
 
+\h Mark
+
+\toc1 Mark
+
+\toc2 Mark
+
+\toc3 mrk
+
+\mt Mark
+
+\c 1
+
+\s Mateya ya Yoane Mobatisi
+
+\r (Mt 3.1-12; Lk 3.1-18; Yn 1.19-28)
+
+\p
+
+\v 1 Bangelo di nsango leka Yesu Kristu wana loka Wangi.
+
+\v 2 Oko botindo bosako komama oko bokanda boka bosakoli Isaya: lenda oko ntondo lewu ntoma ntumwa alonda mboka;
+
+\v 3 Bayokake iyoyi dika moto dinghanka oko bosobe, bobongia mboka eka nkolo, bosembwa bio.
+
+\p
+
+\v 4 Yowane boyini apaswaké, ayina bato oko bosoku, ateyaké boyini bo nkalomwé, pe ntuenya bobé itina Wangi angoésamba la basumu bá nyo.
+
+\v 5 Bolongo bonkuma boka bo ba yuda la yelusalema, basaké oko nde, bayambolaké basumu ba bó oko meso baka bato bankuma, ngaku Yowane ayinaké bô oko ndjalé le yaladene.
+
+\p
+
+\v 6 Yowane adiki la esende le bioso beka nyama (chamo), la nkamba le wembu oko ikongo, amoleke babambampasi, la bowué.
+
+\v 7 Ateyake ndè: moto one ongoya mbisa lemi nde ampenda la nguya, ntikoke nkia ndia nkulu- abongo oko bakolo ba nde, nyimua besinga beka bikoto bi nde ye.
+
+\v 8 Mi, moéyinaké oko losi lo ntonto, ngaku ndé a ngoéyina la bolimo boo tée.
+
+\s Yoane abatisi Yezu pe Satan ameki ye
+
+\r (Mt 3.13--4.11; Lk 3.21-22; 4.1-13)
+
+\p
+
+\v 9 Oko nsio biku, yesu ayimake oko galileya, oko ndja le nazareth, Yowané aoyinaké oko njdalé le yordane.
+
+\v 10 Ndengo eki nde apasuaké oko losi, ayeneke diko di lipuama, bolimo bokitelake nkonga embenga.
+
+\v 11 Ngaku bayokake iyoyi imo diyima oko diko di tepela mbo binè: onè ele wana lomi lo lolango, oko nde nsotika lolango lomi lonkuma.
+
+\p
+
+\v 12 Oko ngengo éku, bolimo bobelaké oko bosobe.
+
+\v 13 Ayalaké oko ndié emo la ba nyama bi dia, oko ngengo l'eki satana omekaka nsio ntuku bineyi bombondo nteleke, pe b'andjelu bayake mbatela ndé.
+
+\s Yezu abengi bayekoli minei
+
+\r (Mt 4.12-22; Lk 4.14-15; 5.1-11)
+
+\p
+
+\v 14 Ngengo eki bawutake Yowane, baotikake, yesu asake oko galileya, nde abanga nteya teya nsango dilo leka Wangi.
+
+\v 15 Atepelake nde: ngengo eso koka, bonkumu boka Wangi bo ya mpika, botuénya bobe, boyambela nsango dilo.
+
+\p
+
+\v 16 Ngengo eki balekake oko bonkii boka ndjale le galileya, ayeneke simona l'andele mbele leka simona baboka bo tey oko ndjale le nene, itina bayalake basoli.
+
+\v 17 Yesu atepela: bombengami, ngoékela basoli ba batu.
+
+\v 18 Mbala emo batuénya betey b'ebo, boobenga.
+
+\v 19 Ngengo eki nde akasisa ké wano belè ayeneke jake wana lowele loka Zébédé la Yawane mbalele nde, labo pe bayake ako wato balonda betey.
+
+\v 20 Lambel'emo abesia labo, bo batuenya isé dibo zébédé oko watu la bana besala, baobenga nde.
+
+\s Yezu abimisi molimo mabe
+
+\r (Lk 4.31-37)
+
+\p
+
+\v 21 Baleka oko ndja le capernaüm, oko losio lo eyenga, Yesu ayotua ntondo oko lowu lo Wangi ateya.
+
+\v 22 Bato bakabake wuké l'eteyelo dinde, ateyaké la bonkumu, ntembe nkonga basoni béekanda bankuma ye.
+
+\p
+
+\v 23 Ayeneke oko lowu lobô lo Wangi welo omo ayalaké la bolimo bô bé, bonghakake.
+
+\v 24 Yemba bé leso la wu Yesu le nazalete? oyili itina ndiaka so, ndjaba: ole tèe eka Wangi.
+
+\v 25 Yesu átumua, a tepela ndè: yá bió, pasua oko eteyi eka boto onè.
+
+\v 26 Ngako bolimo bó bé bo pasua oko boto oku, akatungia la wembu anhaka wembu.
+
+\v 27 Bato bankuma batumuamaké pe bakabaké, bakayiwolaké, bankina la nkina one yemba bé? one bateyo bó saba! nkonga bonkumu, la belimo Bée bé béototia.
+
+\v 28 Dina dii nde lipandjuanaké oko ba ndja bii mpika mpika la galileya.
+
+\s Yezu abikisi bato ebele
+
+\r (Mt 8.14-17; Lk 4.38-41)
+
+\p
+
+\v 29 Mpasua le nde oko lowu lo Wangi, asaké ndia Jake la Yowane oko lowu loka Simona la andele.
+
+\v 30 Bokilo boka Simona adiki la isakema, basaké ntepele Yesu bwè bokilo boka Simona adia walé, ntondo eka Yesu ndjaka yaka, bokilo oku adiki oko isilo.
+
+\v 31 Ngengo eki nde abeke mpika lande aowuta oko lobo pié aoyemia wema, nkoko ngengo eku isakima disia mbala emo, mbisa leka isakema abanga nkelela bô.
+
+\p
+
+\v 32 La ikolo, ngengo esa botio boyila baoyelake bato ba nkuma ba biale , la pe bato badia belimo bée bé. ngengo eki bô bayokake bontika boku.
+
+\v 33 Ndja enkuma, eyake oko ntondo eka lowu londe.
+
+\v 34 Abikiake lonkina bato wuke bakoliki la biale betindo la betindo; akombaké pe belimo bé be, pe ntapáaka belimo bée bé ngengo batepela itina baoyebaké nta dilo.
+
+\s Yezu atamboli na Galilé mobimba
+
+\r (Lk 4.42-44)
+
+\p
+
+\v 35 La mpendu, ediki lelô wano mpitamo, Yesu apasuake, asake oko bosobe itina abotitia.
+
+\v 36 Nkonko ngengo eku Simona ndia ba mbale bá ndé, batoko la ndjalola ndé.
+
+\v 37 Ngengo eki bô baoyeke, baotepela: bato bankuma bako yalola.
+
+\v 38 Yesu akalolaké nde, toyimé anè to kende ndié enkina itina nso teya oko. Itina la dio diyilimi.
+
+\v 39 Ngako akendeke Galileya enkuma, teya teya oko mbú bika Wangi, pe apasuake belimo bée bé.
+
+\s Yezu abikisi moto ya maladi ya maba
+
+\r (Mt 8.1-4; Lk 5.12-16)
+
+\p
+
+\v 40 Losio lomo, bokonu bo mô bo nkatoété, ayaké, akita nkulu abongo oko ntondo eka Yesu, abotitia Yesu: la olanga, ompetwé.
+
+\v 41 Yesu aoyokela iseyi, asemboa lobô, pe aowuta, aonangua, ngaku aopetele, nde yala peto.
+
+\v 42 Nkoko ngengo eku walé bosia, Yesu otepela nde leka.
+
+\v 43 Yesu aoyisenaké isali-sali aotepela, monyo.
+
+\v 44 Ntotepelaké nkia boto omo. leka oko batumbi mbeka opa ikapo nkonga oki mosé atepelake itina dia sungé oko itatoli.
+
+\v 45 Ngengo eki nde asáké atepelaké la bato wuké pe oko ndié binkumela, itina dika nsango eku Yesu ntakokaké nkia mpaswa oko ndié le bato wuké. Ngengo adiki oko bosalé oko ndié bi besobé ngaku bato bayimaki bi payi la payi.
+
+\c 2
+
+\s Yezu abikisi moto akufá makolo
+
+\r (Mt 9.1-8; Lk 5.17-26)
+
+\p
+
+\v 1 Okombisa binsio, Yesu ayitiaké kapenaum bato bayokake bwe alokò lowulu,
+
+\v 2 Bato wuké bakasangitiaké oko ngaku, ndié amoyalé okòsalé etikalaké nkia boto ye , yesu ateyaké iteya lika Wangi.
+
+\v 3 0ko ngengo eku bo baneyi bayaké babelaké ekoko.
+
+\v 4 Ngaku ntaokokaké ndakia ndé Yesu itina lika lonkakitia lokaka bato. Ngaku bakondelaké oko bôntondò l'ewulu bató batuwaké ikusu oko ndié elé Yesu, batuluaké ekòkò ngonga botindo bô ndé aliki l'itoko dindé.
+
+\v 5 Ngengo eki Yesu ayeneke boyambi boonde atepélé ekoko ndee mwana loomi nsòkosambà.
+
+\v 6 Balakié bebeko bankina bayalaka ansé okò, baka yibwaké oko nsé bè ebonda:
+
+\v 7 Botindo bé motó one atiola Wangi ngane moto nani lokoka ndimbisa basumu? ntembé nkò Wangi?
+
+\v 8 Yesu akoyeba batengeli babò ngaku ayibola: Itina bé bodia batangeli ba ngaku oko bebonda bee nyò.
+
+\v 9 La ntepela ekòkò ndee indimbisa basumu ba wu, lantepela: Yala wema, fwa ntange, ngaku peleka?
+
+\v 10 Ngaku nkana boyebe mwana oka boto adia bonkumu bondimbisa basumu oni bolongo, ngaku atepele ekoko.
+
+\v 11 Ntepela lawu: yala wema fwa ntange lewu ngaku yitia oko lowulu.
+
+\v 12 Oko mbala emo ekoko aliki wema oko mesó ba nkumu, afwé itoko dindé ngaku ayitié bato bakabake wuke ba bangake nkumusa Wangi batepele bwe: lelò ntantó yeni lobô lo botindo ene yè.
+
+\s Yezu abengi Levi
+
+\r (Mt 9.9-13; Lk 5.27-32)
+
+\p
+
+\v 13 Yesu akeya lonkina oko mpika leka ndjalé bató wuké bayaka okò lendé akupé ateyake bò.
+
+\v 14 Langengo eleka ndé, ayenè Levi wana loka Alfe, aya mwema aobengi ndè.
+
+\p
+
+\v 15 Nkonga eku Yesu elé oko lowulu loka Levi bafutisi mpako, bato wuké le basumu bayalaké lande oko mesa, Yesu pe la babayekoli ba ndé, bôkwöbe bato wuké leka botundo õku ba ôbengé.
+
+\v 16 Ngengo ki bateyi bebeko laba Falisayi eki bayeneke we Yesu alé oko ndie emo nde la bato bà basumu la ba futusa mpako?
+
+\v 17 Yesu ayokake bõ pe atepeli be, "Bato Bale la bienge dilo nta yenga bonganga nko bato balia biale. Itina ntimoye ndjenga bato balia bienge dilo moye itina la bato bà biale la basumu."
+
+\p
+
+\v 18 Labé losio lonkina bayekoli baka Yoani boyini boka bà falisaya baka tamia ndjala ngaku bawu yè?
+
+\v 19 Yesu akalola ndè, "Bambale baki mwele atamia ndjala ilaka, ale labo ndie emo bayalaké? oko nta tamake ndjala yè.
+
+\v 20 Losio longa bà yimia mwelé oko lebo bango katamia ndjala.
+
+\p
+
+\v 21 Moto omo yè nta bongo ntonga etetia esenda losaba, mbalà la esenda le kalakala.
+
+\v 22 Ngaku bató nté ebongo batika banà bà wembu bi bosaba la ekutu le kalakala ye ngaku mana bi bosaba bingo sa dia."
+
+\s Yezu azali Mokonzi ya Mokolo ya Kopema
+
+\r (Mt 12.1-8; Lk 6.1-5)
+
+\p
+
+\v 23 Eliki losio lomo lo eyenga loki Yesu apendaké oko itia bi basangu, bayekoli bande batiké nduka basangu?"
+
+\v 24 Bafalisya bà baotepela, Yesu "lenda! Nkónga bayekoli bakela mbo lempa nte ebongo la losio lo eyenga?"
+
+\v 25 Yesu akalola ndè, "Nto moyene botindo emoyalé Dawidi akela ndé la bato bandé ngengo eki bayokake ndjala, nta nsengakake biemba bi ndekeleke?
+
+\v 26 Ngengo eki bosali bo Wangi bo nene Abiathar la ndesa mampa le wangi, bampa eko emobongo la ndé boto bolé bosali bo nene bo Wangi, nkonga ndé Dawidi amo kekapé la bayekoli bandé?"
+
+\v 27 Yesu atepela ndé, "Eyenga emokela la boto ngaku boto ntakelama la eyenga ye.
+
+\v 28 Kieku Wana loka Wangi alé nkumu leka eyenga."
+
+\c 3
+
+\s Yezu abikisi moto akufá liboko
+
+\r (Mt 12.9-14; Lk 6.6-11)
+
+\p
+
+\v 1 Yesu ayotuaké lonkina oko lowu, lo Wangi. Oko, ayeneke ékoko esaka lobo lo Wangi.
+
+\v 2 Balendake Yesu l'ango bikia ékoko eku losio lo eyenga: itina la abikia bato losio lo eyenga baofunda.
+
+\v 3 Yesu atepelé ékoko nde: Yemala aku oko eteteyi.
+
+\v 4 La mbisa, ayiwua nde: Oko losio lo eyenga nkela mbé, mbikia boto la pe ndiaka nde? Esa bô bayoka nganku ba yaa bio.
+
+\v 5 Aku yesu ayoka iyulu, aboka beso ntundu la ntundu bile bô, Ayaa l'isei itina dii bobonda wembu. Atepela ékoko nde tanda lobô, atanda lô, pe lobongo.
+
+\v 6 Bafalisai ba pasua isali sali itina basokela boyongano bô la Erode itina dii ndiaka nde.
+
+\s Bato mingi bayei epai ya Yezu
+
+\r (Mt 4.25; 12.15-16; Lk 6.17-19)
+
+\p
+
+\v 7 Yesu akayimia lóko lo ndjalé ndia bayekoli baa ndé. Esuku le nene le bato, eobenga oko Galileya.
+
+\v 8 Oko yuda oko yelusalema, oko idumée, pe oko loko lo Tyr to Sido, bato wuké basaké oko Yesu. Esuku le nene, eyokaka bentika beka Yesu la pe bosala bonene bokelii ndé oko, basaké mbenga ndé.
+
+\v 9 A tomaké bayekoli ba ndé baolondela wato bonio, ibango esuku le bato ntabowutaké, ntabotungisaké.
+
+\v 10 Ngengo eki nde abikié bato wuké, bato bankina pe bádia bialé, bayaké ngaku itina baowutaka oko biengé.
+
+\v 11 Ngengo eki belimo bée bé beyeneké Yesu, baka boka oko ns'akolo bá ndé la nghaka: Olé mwana oko Wangi".
+
+\v 12 Ngaku Yesu apekia ntatepelaka nkia boto.
+
+\s Yezu aponi bantoma zomi na mibale
+
+\r (Matt. 10.1-4; Luke 6.12-16)
+
+\p
+
+\v 13 Ayilelake oko engenza, abesia baki nde alangake bayalé baande.
+
+\v 14 Asoloke bayekoli diomu la bapele, itina li njala la ndé.
+
+\v 15 Itina li ntoma bo nteya teya la nguya, le nkomba komba belimo be bobé.
+
+\v 16 Lenda bena baka ba diomu la bapele baa ki nde asoloke: simona, aonangiaké Petelo.
+
+\v 17 Yakobo mwana oka Zebedai, Yowane mwankune loka Jake, okibatike lina Boanergés, elakia wana oka nkaké,
+
+\v 18 Ande le, Filipo, Balutumayi, Matai, Toma, Yakobo Tadai, Simona, la pe.
+
+\v 19 Yuda Iscaliote, one okotekeke Yesu.
+
+\s Yezu ná bandeko na ye
+
+\p
+
+\v 20 Bayotuaké oko lowulu, esuku eyitia nko mbenga bo lonkina, nkia ngengo le bongo bo ndekeleke ye.
+
+\v 21 Baboti baka Yesu, bayokaké mbo bo nkuma bikolekaka basengaka bofua la wembu ibango batepela boe: alia lokeye.
+
+\s Balakisi-Mibeko bafundi Yezu ’tè azali na molimo mabe.
+
+\r (Mt 12.22-32; Lk 11.14-23; 12.10)
+
+\p
+
+\v 22 Bayuda bakoyimaka oko Yelusalema batepela boe: Nde alia Belezebule ibango bo wuna bona satana kio eko ekombande belimo bee be.
+
+\v 23 Yesu abesia pe atepela oko botindo bo batandia ele ngamoni Satana akaka la nkomba Satana?
+
+\v 24 La bato basokakapola oko ndia, ndja ntengoya dilo ye.
+
+\v 25 Laa bato ba ibota limo basokakapola ibota lobo ntingoya dilo.
+
+\v 26 La Satana ale laboto bande, laps bato bande basokakapola, wembu boo nde ntongoyala la elié ye, bongosila.
+
+\p
+
+\v 27 Moto lolanga ndjotua oko lowulu loka boto lo wembu, itina la nsuka biemba bindé, ebongo ntondo la boto oko lo wembu ndala nde besinga la mbisa akoka nsuka biemba bindé.
+
+\p
+
+\v 28 Nkotepela la bososolo, bato ba nkuma, bango-asamba oko Lina lika Yesu.
+
+\v 29 Bato batiola bolimo boo tée, ntangolimbisa basumu babo, bongo gala ité."
+
+\v 30 Yesu atepelaké ngaku, itina botiolake boe bolimo bo mbindo, boyotua oko nde.
+
+\s Mama ya Yezu ná bandeko na ye
+
+\r (Mt 12.46-50; Lk 8.19-21)
+
+\p
+
+\v 31 Nyango la ba mbalé baka Yesu baliki oko bosalé balendake ba besia Yesu.
+
+\v 32 Esuku le bato elingelake Yesu, baotepela boe, nyango lewu ele oko bosalé ndia ba mbale baa wu bako yalola.
+
+\v 33 Ayisinake nkalo nde, boto ole ngo lemi nani? ba mbale bami pe ba nani?
+
+\v 34 La mbisa-eku yesu Yesu abokake meeso oko mpika la nde, enda nyango lemi pe bambalé baami!
+
+\v 35 Ngaku, bato ba nkuma bakela botindo bolanga Wangi, nde ale mbale lemi, ale mpaka lemi, ale pe nyango lemi.
+
+\c 4
+
+\s Lisapo ya mokoni-bilanga
+
+\r (Mt 13.1-9; Lk 8.4-8)
+
+\p
+
+\v 1 Yesu ateyaké mbala enkina oko bonki bo ndjale. Esuku le bató badiki ndié emo mpika la nde, akondiaké oko wato akatika ansé. Bato bankuma badiki oko bonki bo ndjale.
+
+\v 2 Ateyaké mbo wuké oko batandia pé atepela oko iteya dii nde:
+
+\v 3 Boyoka! boyoni bomo apasuaké itina aso yoné.
+
+\v 4 Ngengo enki nde ayokaké, bii mo bikitake oko mboka: mfulu biyaké baileke.
+
+\v 5 Binkina bikitaké oko bawé, ndié empantembia mbotu wuké, biliki nkoko diko dii bawé, ndié ekamba mbotu. Ngaku bipasuaké laisadi, itina ntabibaka mbotu bii dilo.
+
+\v 6 Ngako ngengo enki mwané bipasuaké, bionua beyomaké.
+
+\v 7 Ndambu enkina ekitake oko nsende. Nsende biko, bikambiaké bionua mboka befulé dilo.
+
+\v 8 Ndambu enkina ekitaké oko mbotu bii dilo, bipaaké bionua be dilo, bémo be pa mboo ntuku bisato, binkina ntuku bisamalo, binkina bonkama.
+
+\v 9 Ngaku atepela: One odia petoyi ba ndjoka yoka ayoké.
+
+\s Po na nini Yezu azalaki koloba na masapo
+
+\r (Mt 13.10-17; Lk 8.9-10)
+
+\p
+
+\v 10 Bato bankuma lá bayekoli baa ndé diomu la pé boyiwua mbo bitepela nde oko batandia.
+
+\v 11 Atepela bo: Elenyo nde baanki bapáké bamonyo baka bonkumu boka Wangi, la bane baloko bosale binkuma bialekia nkoko batandia.
+
+\v 12 Itina lika bane bampantambe laso ndié emo, balenda ngako ntayene, bayoka ngako ntaba sosolé. binkuma bialekia nkonga oko batandia.
+
+\s Yezu alimboli lisapo ya mokoni-bilanga
+
+\r (Mt 13.18-23; Lk 8.11-15)
+
+\p
+
+\v 13 Atepela lonkina: Ntaboyebe itandia dine ye? Ngaha moni bongoyeba batandia bankumela?
+
+\v 14 Boyoni ayona iteyo dika Wangi.
+
+\v 15 Bionua benkina bikitaké oko bonki bo mboka, oko onki iteyo liyonamaké. Ngengo enki bayokaké mbale emo Satana ayake nyimié iteyo likoyonamaké okolebo.
+
+\v 16 Bankina, nkongaku, bayambaké bionua oko bawé, ngengo eyokabo iteyo, bayamba la nyinga.
+
+\v 17 Ngako ntambia besisa (boyambi) bo bankuma bakamba ekangéô lobonda la benyoko besoya itina dika iteyo, eyankonga eyimbelo le boyambi.
+
+\v 18 Bankina bafua bionua oko nsende, elé bané ba soo yoka iteyo,
+
+\v 19 ngako bané badia bosenga bo binyengi bibolongo, lokoso loka bobalelo, la mposa leka mbo binkina, bikambia iteyo iku libaé ndié oko bobonda baka bato.
+
+\v 20 Bankina bayonaké bionua oko mbotu bidilo, bibata bimo, ntuku misato, binkina ntuku bisamalo, binkina pe bonkama, ele bane bayoka iteyo dika Wangi, ba iyamba, bibota mbolo oko bobonda bée bo.
+
+\s Lisapo ya mwinda
+
+\r (Lk 8.16-18)
+
+\p
+
+\v 21 A tepela lonkina: Opetia mwinda, ngaku oteketika oko nsé le ntangé? Ntembe oketika oko diko dii mesa?
+
+\v 22 Ngaku ntembia yemba emo le monyo monyo, binkuma bingoyenuama polele.
+
+\v 23 La moto adia batoyi ba ndjoka yoka ayoké.
+
+\p
+
+\v 24 A tepela lonkina: «Boyala la nkepo la mbo boyoka nyo, Wangi angoekelela nga botindo boleka nyo bokelele ba mbale.
+
+\v 25 Ngaku one olia wuké bango bakisa lanto, one olia nio, bango yimia kia ndambu ene edia ndé.»
+
+\p
+
+\v 26 A tepela lonkina: elenkongaku bo nkumu boka Wangi bole nkonga boto one osoyona bionua oko mbotu bi dilo.
+
+\v 27 Nkia oko isilo nkia oko têe, botio tô mwané, bionua bepasua lâ befula ntayeba ye.
+
+\v 28 Bionua bepasua oko mbotu bio nkika. Ntondo eyaké belenge bepasua bosongi, basongi ako bepasua mbolo binkuma biyimaké oko basongi.
+
+\v 29 Ngengo esa bionua beyele bafuaké mpalo, lambeke bio itina ngengo le nduka duka ekoka.
+
+\s Lisapo ya mbuma ya mutarde
+
+\r (Mt 13.31-32, 34; Lk 13.18-19)
+
+\p
+
+\v 30 A tepela lonkina: tokolimia bo nkumu boka Wangi la bé, la itandia be di bongo so nkolimia?
+
+\v 31 Ele botindo bô mo ngonga bonua bo nio bo penda bionua be nkuma oni bolongo.
+
+\v 32 Ngaku la basoke yona eyalaké ntale mpendé bionua benkumela, ngaku pé ebokaké mpanyi bii nene ndié ebongo mfulu ndué bembo baa bô.
+
+\p
+
+\v 33 La batandia wuké bo tindo oko, Yesu amoatepelaké itina la one odia isosoli asosolé.
+
+\v 34 Nkia ngaku ntatuenya atepela la ba tanndia, oko bayekoli ba ndé amodimbuaké mbo binkumela oko imoseme.
+
+\s Yezu alembisi mopepe ná mbonge
+
+\r (Mt 8.23-27; Lk 8.22-25)
+
+\p
+
+\v 35 Nkoko losio loku la ikolo, Yesu atepela ndé: To penda oko bonki boko bonkina.
+
+\v 36 Mbisa eka njisene esuku' ebato eku, basaké oko wato bonki Yesu adiki baobeaké Boston benkina bekodiki mpika la ndé.
+
+\v 37 Boketi bowembu boyaké babombi bayoto oko wato, losi loyotuaké.
+
+\v 38 Yesu ataamaké oko ikumelo dii wato botu oko diko di kusé, bayekoli baa ndé baoyumwa ngako baotepela: «Boteyi tokana towa! éne nteko kié yemba?»
+
+\v 39 Yesu ayimwa. atepela ndjalé « Bio! Tuenya boyoko» Ngaku boketi bosiaké, yoyii eyotua.
+
+\v 40 Ngaku atepela nde: Itina be boyoka bôomo? Nyo ntombia boyambi la bé?
+
+\v 41 Ngaku bayekoli bayaaké bôomo bakatepela: «Moto oné ale nani? Nkia mwembo to losi bôo totia!»
+
+\c 5
+
+\s Yezu abikisi moto azali na milimo mabe
+
+\r (Mt 8.28-34; Lk 8.26-39)
+
+\p
+
+\v 1 Ba yiake oko bonki bonkina bo ndjale oko belongo be Gadariens.
+
+\v 2 Oko ngengo enki Yesu apasué oko wato, baoyelake wele omo okoyimaka oko ilengi ayaaké la bolimo bomo boobé.
+
+\v 3 Boto oko ayaaké nkoko ilengi, boto omo ntakoké mbute nde, nkia ndalende besinga.
+
+\v 4 Ngengo binkuma ayake la bipeko oko bakolo ndalema oko besinga, nkia ngaku amo bekeké besinga la bipeko, boto omo ye amo kokake mbute nde.
+
+\v 5 Boto oku aliki ngengo binkuma, wané, botio nkoko ilengi pe oko ngomba ngaaka ngaaka pe mposuama oko bawé.
+
+\p
+
+\v 6 Ayeneke Yesu bele, ayaka lobango oko ntondo le nde.
+
+\v 7 Angaaka la iyoyi liwembu: Lobo be lomawu, Yesu wana loka Wangi ôo penda liko? Nko botitia ntonkiake bobe.
+
+\v 8 Ngaku Yesu aotepela nde: Bolimo boo bé pasua oko biengé bika boto one.
+
+\v 9 Ngaku aoyuwa: Dina diwu nani? Aokalua nde: Dina dimi Wuké itina tole wuké.
+
+\v 10 Ngako aobotitié nde ntatotamaka oko belongo béenkina.
+
+\p
+
+\v 11 Eliki oko ngomba etuluku emo le niama eleka.
+
+\v 12 Bolimo béebe beobotitié, be tepela: Ototome oko etuluku eko, toyotué oko kio.
+
+\v 13 Aepaaké mboka: ngaku bolimo eko béebe beyotuake oko etuluku le ngulu, ngaku ba ngulu biko biketaka oko ndjalé biwaké binkumela, biliki mpika mpika 2000.
+
+\p
+
+\v 14 Bankengeli ba nyama baloteka, baleka mpanzé nsango oko ba monga, oko ndja bi mpika mpika. Mbisa eko, bato bayake ndenda lenda lobo loso keluama.
+
+\v 15 Bayaké mpika la Yesu bayene boto olia belimo bée. Baoyeneke ale yoyii, alata bisemba pe ayitiela batengeli ba dilo.
+
+\v 16 Bane bakoyeneke mbo bikolekaka ba paaké bontika boka boto lo belimo bée be pe loka etuluku le ngulu.
+
+\v 17 Ngaku bato babotitiaké Yesu ayime oko mbotu biibo.
+
+\v 18 Ngengo enki Yesu ayotuaké oko wato, boto onki nde ayimiaké belimo bée be, babotitiaké Yesu nde bakende ndia ndé.
+
+\v 19 Yesu ntalangaka, ngaku aotepela nde: Leka oko lowulu loowu tepela bato mbo bii nene bisa Wangi akokelela, ndenge esa nde ako yokela isei.
+
+\v 20 Ayitiaké, apandjake nsango la bikuma binki Yesu aokele, ngako bato bankuma bakabake wuké.
+
+\s Mwana ya mokonzi moko ya Bayuda pe mwasi moko oyo asimbi elamba ya Yezu
+
+\r (Mt 9.18-26; Lk 8.40-56)
+
+\p
+
+\v 21 Yesu oko wato asake oko bonki bonkina boka ndjalé, bato wuké baobengaké.
+
+\v 22 Ngako nkumu emo leka lowulu lo Wangi oko dina dii, Jairis aoyene akaboka oko bakolo bande.
+
+\v 23 Ngaku aobotitiaké wuké: Aotepela, mwana lomi lo mweto akana awé nko botitia onangié nde ba boo abiké, shape la nsio.
+
+\v 24 Yesu asake ndia ndé. Ngaku esuku le bato baobengaké.
+
+\v 25 Nkani elia mweto omo opasua balongo lene mpela bi pele.
+
+\v 26 Anyokuamaké wuké oko babo baka be nganga, aseyaké falanga binde binkumela; ntaba k'ebiko.
+
+\v 27 Ngengo esande ayoka nsango eka Yesu, alekake oko mbisa eka esuku leka bato ewuta esenda le nde.
+
+\v 28 Atepela laa mbuta nko esenda le nde ntonto ngo ba libiko.
+
+\v 29 Nkoko ngengo eku balongo ba bekuaké mbala emo, ayokaké oko biengé bii nde abika oko walé boo ndé.
+
+\v 30 Yesu ayokaké mbala emo nguya epasua oko le nde, ngaku eyitiaké oko esuku leka bato awuwa: moto Nani ombutii oko esenda?
+
+\v 31 Bayekoli baa ndé baotepela: Ntoyene we bato wuké, ngaku oto yuwua we moto ombutié oko esenda nani?
+
+\p
+
+\v 32 Ngako alendake mpika mpika la nde, itina alende moto oso kia ngaku.
+
+\v 33 Mweto oku asakatana la boomo, ibango ayeba ke lobo loso keluama oko le ndé, ayakokayimba oko Yesu, atepela boso solo bonkumela.
+
+\v 34 Ngaku Yesu aotepela nde: boyambii bowu bosoko bikia, leka la yoyii, obalobiko loka walé boowu.
+
+\p
+
+\v 35 Ane onki Yesu atepelaké, bato bayimaké oko lowu loka yair bayaka botepela nde mwana lowu lo mweto asowa tuenya ntungise lonkina boteyi.
+
+\v 36 Ngaku Yesu, ntabengaka botepela atepela bii bo, atepela nkumu eku: Ntoyaké la boomo, ya la boyambi.
+
+\v 37 Ngaku ntalangaka nkia moto aobenga, nko Petelo la Jake pe la Yowane mwankuné loko Jake.
+
+\v 38 Ngengo eki bo bayiaké oko lowu loka nkumu eku, Yesu ayeneke esuku le bato balela ba ngahaka.
+
+\v 39 Boyotuaké ngaku atepela: Bokela boyoko la be, bokela be? Mwna ntawuli, ale isilo.
+
+\v 40 Baotiolaké, apasuaké batobankumela, abotitia ndia isé la niango eka means la bakobengaka oko oonki mwana adiki.
+
+\v 41 Aowuta oko lobo, aotepela: Talitha koumi, edimbola: Elenge le mweto yimua, nkotepela.
+
+\v 42 Nkonga ko elenge le mweto ayak mwema alende. Ngako aliki la mpela diomu di pé. Bato wuké bakabaké.
+
+\v 43 Yesu ntalangaké bato bayeba mbo bikolekaka oko, atepela nde bopaa mwana biemba bii ndeke leke.
+
+\c 6
+
+\s Bato ya Nazaret baboyi Yezu
+
+\r (Mt 13.53-58; Lk 4.16-30)
+
+\p
+
+\v 1 Yesu a yima oko ndié enki nde ayaké, ayitia ok ndjaa enki nde afulaké. bayekoli baa ndé baobengaké.
+
+\v 2 Losio lo eyenga ateyaké oko lowu lo Wangi. bato wuké baoyokaké pe bakabaké wuké batepela: «Mbo biè biyima nkoni? Moto okopa boyedi bone nani. Akela bienua bene oko ba boo ba ndé ngamoni?
+
+\v 3 Ntembe nde bokeli bo babaya, wana loka Maria, mbalé leka Jake, Jozé, Yudé la Simona?» La ba mpaka bá nde nteko yaso labo enè?
+
+\v 4 Ngaku Yesu atepelaké: Ntako yambé bosakoli oko ndja le ndé, oko ibotuá dii ndé, tô oko lowu lô bô.
+
+\v 5 Yesu nta kokaka nkela bo mwenge oko nazaleta, amo bikiaké ndambu le boto ba biale la ntika bô ba bô oko betu oko ndié binkumela bima nde alekaki.
+
+\v 6 Ngaku akabaké itina dika bato ba nazaleta ntambia boyambi.
+
+\s Yezu atindi bayeki zomi na mibale
+
+\r (Mt 10.5-15; Lk 9.1-6)
+
+\p\\
+Mbisa eko Yesu asake nteya teya oko ndja bii mpika mpika la bô.
+
+\v 7 Abesiaké bayekoli ba ndé diomu la ba pé, ngako atomaké bá pé la pé, apaké bó bonkumu bonkomba belimo be bée.
+
+\v 8 Ngaku atoma nde: ntabobelaké nkia yemba lonyo, no mboto: nkia mampa, sakosi, falanga ye oko ibenga dii nyo.
+
+\v 9 Ngako bolata nko bapapa, la esenda emó, bi pé ye.
+
+\v 10 Aatepela lonkina: Ngengo enganyo bo bè oko ndja enkina, boyaka ékoko lowu longa bapala tii ngengo enga nyo boyimé oko ndja eku.
+
+\v 11 La baboya ndjamba nyo oko ndja eko, to baboyi ndjoka nyo, bo fumbua bakolo banyo oko, la ngaku bangoyeba bwè bakela mbé.
+
+\v 12 Ngaku bayekoli basaké pe babanga teya teya bato, bokalomwa bebonda.
+
+\v 13 Bakombaké belimo wuké bée mbé, babikiaké bato wuké ba bialé la ndisa bo belawu.
+
+\s Liwa ya Yoane Mobatisi
+
+\r (Mt 14.1-12; Lk 9.7-9)
+
+\p
+
+\v 14 Ngengo eki nkumu Erode ayokaké nsango leka Yesu, dina dii ndé ditépuamaka wuké. bato bankina batepelaké ndè: Yowane boyini akundwá! kiokiéku aba nguya ekela nde bimwenge binè.
+
+\v 15 Ngaku bankina batepela bwuè: "Ndé alé Eliya, tô alé bosakoli nkonga banè bantondo.
+
+\p
+
+\v 16 Ngengo enki nkumu Erode ayokaké bontika boko, atepela: Ale nko Yowané oneki mbekeke botu, nde moto oso kundwa.
+
+\v 17 Ngaku nkumu Erode atomaké bosonda bá ndé bawuté Yowané. Baolaké besinga, baotikaké oko boloko. Bokobo boka Erodiase ilaka di éngambi lika filipo. Erobe aobalaké,
+
+\v 18 Ngako Yowané aopekiaké atepela ndè: Bebeko etepela ntokoka mbalambala ilaka dika mbalé lewu yè.
+
+\v 19 Kio kiéku Erodiase aliki la iyu oko bobonda bô nde itina dika Yowané akanaké aodiaké ngako nta kokaka.
+
+\v 20 Mpamba ye Erode amolotaké Yowané, itina ayebaké ndè ale boto lo dilo pe sembo, kiokiéku ntalangaka nkié nde bô bé. Bateyo bamo seyake boyeli boo ndé, nkiangaku amolangaké ndjokéle nde.
+
+\p
+
+\v 21 Nkané oko losio lo feti leka babotuelo bala Erode Erodiase abaké ngengo ledio itina la lobo lokinde akanaké. Erode abesiaké baa ndja, ba nkumu bika ba soda la bato bánene ba etuka le Galileya, bayolè oko lendé.
+
+\v 22 Ngengo enki badiki oko mesa, wana loka Erodiase lo weto otuaké oko lowulu ngaku abanga nkanya nkanya oko meso beka Erode la baka bato bankuma banki nde abesiaké. Ayokiaké nyinga wuké. Ngaku Erode atepelaké ndé: Ombondela yemba enkuma elangawu, ngoko paa kio.
+
+\v 23 Abekeke seleka: “Yemba enkuma elangawu ngoko pa kio, nkia yeti lebo nkumu bóo mi ngoko pakio”.
+
+\v 24 Wana oko apasuaké ndiwua nyango: “Mbondele yemba bé?” Nyango lende aotepela “Bondela botu boka Yowané boyini.”
+
+\v 25 Ngaku nde ayitaké isali oko nkumu Erode atepela: Nkobondela nkaku booko ompa botu boka Yowané boyini oko le saani.
+
+\v 26 Nkumu Erode ayoké iseyi wuké mpenda penda. Ngaku ntaboyaka mpekia nde itina aketaka seleka oko beso baka bato bankumela banki ndé abesiaka oko feti.
+
+\v 27 Ngako atomaké soda emo itina aoyela botu boka Yowané boyini. Soda asake, ayotua, abeke Yowané botu.
+
+\v 28 Soda eku atikaké botu oko saani ayako paa elenge le weto, elenge eku aleka la botu mpa ngengo.
+
+\v 29 Ngengo enki bayekoli baka Yowané ngaku, basaké mposo ebembé la nkunda kio.
+
+\s Yezu aleisi bato 5.000
+
+\r (Mt 14.13-21; Lk 9.10-17; Yn 6.1-14)
+
+\p
+
+\v 30 Ngengo enki bayekoli bayitiaké badiki la boyongano bankina bo la Yesu, batepela binkuma biki bakelaké la biki bateyaké.
+
+\v 31 Yesu atepela: Boyaké tokende oko ndié emo left bió boyolié. Atepela ndè nganè, bato wuké bayaka bayitia bayekoli nta ba nkia ngengo le ndeke-leke.
+
+\v 32 Ngaku bayotuaké oko wato ba leka bonkika oko ndié le yoyii.
+
+\v 33 Ngaku bato bayeneke ndenge enki bo basaké, pe bato wuké bayima ntundu la ntundu, bo bayiiaké ntondo oko looko loki Yesu akanosa.
+
+\p
+
+\v 34 Ngengo leki Yesu apasuaké oko wato ayeneké bato wuké, áayokelaké isei wuké oko bobonda ibango balé nkonga mpata bimpa timbia bobongoli, abangaki nteya bó mbo wuké.
+
+\v 35 Bayeneke ngengo esoleka oko Yesu baotepela bwè: Ndié enè elé bosobé ntonto pe ngengo eleka.
+
+\v 36 Atepela bato bakende oko ndja bio mpika mpika oko tii batia la somba biemba bii ndéye leke.
+
+\v 37 Yesu akalola: Nyo nkika bopá bo biemba bii ndéye leke. Nkako bo baoyuwa: ngamoni tokendé somba mampa le 200 itina limpa bo?
+
+\v 38 Yesu áyuwua: Bodiamampa kwè? Boleka bosolendé. Bayene nko bitana la sí bo Pele.
+
+\p
+
+\v 39 Yesu atepelaké bayekoli bá nde ba kapwé bato oko bisuku, bayele ansé oko belenge.
+
+\v 40 Ngako bayaké oko belongo bankina bonkama, bankina ntuku bitano.
+
+\v 41 Aposoké mampa la nsí bo Pele, anangola bèso diko abotitia, Abeke mampa itina di nkapela bo oko bisuku, akapa lonkina nsí biku oko bankumela.
+
+\v 42 Bato bankumela beleke pe banyotaké.
+
+\v 43 Bayekoli batongoloké biteni bii mampa la bii nsí bikotikalaka boniotiaké bisaka diomu la bi pé.
+
+\v 44 Banè bako leke badiki mélé 5000.
+
+\s Yezu atamboli likolo ya mai
+
+\r (Mt 14.22-33; Yn 6.15-21)
+
+\p
+
+\v 45 La mbisa Yesu atomaké bayekoli baa ndé bayotwé oko wato pe bakende nkonga nde oko mbisa look le ndjalé, oko ndja le Betesaida. Ayisena bato oko ndja bii bô.
+
+\v 46 Nkani nde atikalaké oko, Ntako asaké oko ngomba itina dika mbotitia.
+
+\v 47 La ikô wato bodiki oko eteteyi le ndjalé, ngaku Yesu adiki nde nkika oko mbotu.
+
+\v 48 Ayeneké bayekoli adiki la bekakatano ntakoka nkendia wato la nkapi itina mwembo baoyisenaké mbisa. ngengo enki pendu ekana eyombwa, Yesu abanga nkende kende oko diko dii losi la nsaka sako lookó lolé bóo, akano lekana.
+
+\v 49 Ngengo enki bayeneke Yesu kende kende oko diko di losi bayebaké bwè alé elima bayoka boomo, ba banga ngahaka ngahaka.
+
+\v 50 Ngaku bo bankumela baoyene, bayoka boomo wuké, oko ngengo eku Yesu etepela: elé mi; ntoyokaké boomo.
+
+\p
+
+\v 51 Aleka mpika labor ayotua oko wato mwembo bo sia. Bayekoli bakabaké wuké,
+
+\v 52 Kiéku ngengo eki Yesu akelaké bimwenge bi mampa bayekoli ntaba yebaké nkia lobo ye.
+
+\s Yezu abikisi bato na Jenezaret
+
+\r (Mt 14.34-36)
+
+\p
+
+\v 53 Ané osababeke ndjalé bayale oko mbotu bi Yenezaret. bakandaké wato bôobo oko ibongo.
+
+\v 54 Ngengo esa ba pasua oko wato, bato bayaké ndjaba Yesu,
+
+\v 55 Ngaku basaké mposo poso bato ba bialé oko ndjaa enkuma; baabelaké oko batoko, babeaké oko ndié ekabayokaké Yesu aloku.
+
+\v 56 Ndié binkumela biki Yesu alekaké eyáa oko ndja bii Nene la bii nionio la pe mpika, batikaké bato ba bialé oko mboka la bawuta esenda leka Yesu ba bika.
+
+\c 7
+
+\s Po na mateya ya bokoko
+
+\r (Mt 15.1-9)
+
+\p
+
+\v 1 Bafalisai la balakié bé beko bayimaké oko Yelusalema, bayáaké boa bankuma mpika leka Yesu.
+
+\v 2 Bayene bayekoli bankina baka Yesu balè ba bô mbindo, elakia wè: ntasosaka ba bô.
+
+\v 3 Itina Bafalisai la ba Yuda ntakole la ntasosi ba bô, botindo bo toma bonkaka bo bô.
+
+\v 4 Ngengo eki bayimaka oko ndié le bato wuké, bakayekéeké ntondo le ndeke leke. ba memiaké wuké bonkaka bo bô! lokolimia nkonga botindo bo nsosa mpoké bi peko, ba kopo, bikutu la ntangé.
+
+\p
+
+\v 5 La itina inki bafalisai la bakeli bébeko baoyuwuaké: Itina bé bayekoli baawu ntaba totié bekengo beka bankaka, balekè la ba bô mbindo?
+
+\v 6 Yesu akalua: Nyo bato ba'ongala, Isaya ayalaké l'eswa enki ndé atepelaké itina dika Wangi, bato'aku bakomemia la munya, ntembe oko bebonda bée bô.
+
+\v 7 Imemia dii bo oko lemi dilé mpamba, itina babengaké nkô bateyo banè banki bato baateyaké.
+
+\v 8 Nyo nta bototié bebeko beka Wangi, bototia bonè beka bonkaka bó nyo.
+
+\p
+
+\v 9 Atepela lonkina: Nyo boboya bebeko beka Wangi, bomemia beka bonkaka bóo nyo.
+
+\v 10 Ngaku Mose atepelaké: Memia Isé la nyango lewu; onè ongo yàmba isé la nyango le ndé ango báa etumba le iwa.
+
+\v 11 Ngaku nyo, botepela oko bato: Moto akoka ntepela la isé too pe la nyango le ndé: biemba binè bikanami mepaa, nkodia bio mipa ikapo oko wangi,
+
+\v 12 La batepela ngaku, bopekia asunga isé la nyango le ndé.
+
+\v 13 Lenda botindo boboya nyo iteyo dika Wangi, la ntotia bène beyima oko bonkaka bonyo, pe bokela mbo bi botindo oku.
+
+\s Makambo ebebisaka mitema ya bato
+
+\r (Mt 15.10-20)
+
+\p
+
+\v 14 La mbisa Yesu abesiaké lonkina bato bankumela, atepela ndè bondjoka mi nyoankuma, boyeba nga nè,
+
+\v 15 Ntembe enè eloko bosalé boka boto, eyotua oko lendé ekoka ntika ndé mbindo, Ngako elé énè epasua oko eteyi le boto éoyaléa mbindo.
+
+\v 16 La moto adia batoyi bandjoka yoka ayoké.
+
+\p
+
+\v 17 Ngengo eki ndé ayitiaka oko lowu, bélè la esuku le bato, bayekoli ba ndé baoyiwua itina dika itandia diko.
+
+\v 18 Atepela: La nyo ntabombia boyeli? Ntoyeba ye, yemba eloko bosalé ekoyotua oko boto ntekoka ntika nde mbindo?
+
+\v 19 Ngaku biemba biko ntingo yotoko oko bobonda bó ndé, kasi biyoto oko ibalé, la mbisa bingosa oko ipoku dii nseke. Atepelaké Ngaku itina eyebia ndè biemba binkuma bindekeleke bile peto.
+
+\v 20 Atepela lonkina: bi nè bipasua oko boto, bioyalia mbindo.
+
+\v 21 Ngaku ndé: binè biloko eteyi le bobonda boka boto ekopasua batangeli bá bé: ekobo, bondumba, ndiaka boto,
+
+\v 22 Duuba, ekoki, Wáangi, Yoomi, lokoso lo faanga, lolendo, nsikela, bongala Lokeyé loka mbo biolongo, ikalé,
+
+\v 23 Mbo biko binkumela biobé biyima oko eteyi, bio biko bikotika boto mbindo.
+
+\s Mwasi moko ya mopaya andimeli Yezu
+
+\r (Mt 15.21-28)
+
+\p
+
+\v 24 Yesu ayimaké oko ndié eku, asake oko mbotu bilé mpika la imonga di tyr la sidon. Ayotuaké oko lowu lomo, itina ntalangaka bayebe bwè aloko, ngaku ntakokaka monyeme.
+
+\v 25 Ngaku mweto omo adiki la wana loweto lo elenge ayaaké la bolimo bó bé ayokaké nsango le ndé.
+
+\v 26 Mweto oku adiki ngendia abotuaka oko Fenisié, oko etuka le Suri. Nkaku asaka isali sali oko Yesu, aya nkulu-abongo oko ntondo le ndé, aobotitia apasua bolimo bo bé oko mwana lo ndé.
+
+\v 27 Ngaku Yesu aotepela: Tuenya lèlo bana balè ntondo, mpamba ye Ntembe dilo nkumwa biemba bile bana la MPA oko mbwa.
+
+\v 28 Mweto aokalua: Nta sóo nkumu, ngaku bana baka mbwa bileke ndambu le biemba bika bana baboka oko nsé le mesa.
+
+\v 29 Yesu aotepela: Itina dika iyoyi diku, leka bolimo bó bé bopasua oko wana lowu lo weto.
+
+\v 30 Ngengo eki weto oku oyitiaka oko lowu, atanaké wana akotaama, bolimo bó bé boko pasua oko le ndé.
+
+\s Yezu abikisi baba moko
+
+\p
+
+\v 31 Ngaku Yesu ayimaké oko mbotu bi Tyr, aleka oko ndjale le sido itina asé Galileya, alekaké mboka le ndja le Decapole,
+
+\v 32 Baoyelaké ewuwu emo, babondelaké Yesu itina aonangié ba bó.
+
+\v 33 Yesu aobeaké wano bélè la bato, aoyotiaké besei oko batoyi, aowuta oko lolemi la nsoyi bii ndé.
+
+\v 34 Mbisa, alenda diko, aofula wembo pe atepela ewuwu: Efeta "elimbwa: kadipwama".
+
+\v 35 Nkoko ngengo eku batoyi bá ndé badipwamaké losélé la munya. nkoko mbale emo abanga ntepela dilo.
+
+\v 36 Nkia Yesu apekiaké batepela bato, ngaku bô batepelaké lonkina mpenda penda.
+
+\v 37 Bakabaké wuké, batepela: akela mbo bi nkuma la nta dilo, la biwuwu batepela pe bayene.
+
+\c 8
+
+\s Yezu aleisi bato 4.000\\
+\r (Mt 15.32-39)
+
+\p
+
+\v 1 Oko nsio biko, esuku le bato wuké, bakasangintiaka lonkina, bakambaka nkia yemba le ndeke leke,
+
+\v 2 Yesu ábesia bayekoli bá ndé étepela ndè: Ndjoka isei wuké la esuku enè, bayala nsio bisatu mpika la mi, bakamba nkia yemba le ndeke leke.
+
+\v 3 Lá nsoayisena la ndjala oko ndja bii bô, bango kondo oko mboka, ibango bankina bayima botale (belè).
+
+\v 4 Bayekoli bá ndé, baokalola bwè. Okoka nyotia bô la mampa binè oko bosobé nghamoni?
+
+\v 5 Yesu ayiwola bô: Bodia mampa kwe? baoyisena bwè: bisambialé.
+
+\p
+
+\v 6 Nkaku bayalia esuku eku ansé oko mbotu, aposo mampa bisambiale, atondo Wangi, la mbisa abeke mampa pe apà bayekoli bá ndé ba kapela esuku eko.
+
+\v 7 Bayalaké lonkina la wano ndambu le nsi, pe Yesu, ntondo le nkapela bô atondo lonkina Wangi, ayitia nkapéa.
+
+\v 8 Baleke pe banyotaka, mbisa eka ilè, batongholoké bisaka bisambiale bâa la biteni bi mampa bikotikalaka.
+
+\v 9 Esuku eko ediki la bato mpika-mpika 4000, mbisa eku Yesu ayisena ndja.
+
+\v 10 Pe akondela oko wato ndia bayekoli bà ndé, itina li nsaka-saka oko etuka le Dalmanutha.
+
+\v 11 Bafalisayi bayake nkela biango bô la Yesu nko ibango baotumola, la ndiwola ndé edimbetelo enè eyima oko diko.
+
+\v 12 Yesu, ayoka iseyi oko bolimo bô ndé: Itina iyalo linè bakana nko bidimbetelo lá bée? Me tepela nta sôo, iyalo linè, ntingo yenè bidimbetelo.
+
+\v 13 Nkaku ayima oko bô akondela lonkina oko wato, asa oko mbisé-loko.
+
+\s Mayele mokuse ya bayekoli
+
+\r (Mt 16.5-12)
+
+\p
+
+\v 14 Bayekoli bawaka diopa la mposo mampa, badiki nko la mampa emo oko wato.
+
+\v 15 Yesu ayepolaké bayekoli bá ndé: boyale la nkepo là banè baka bafalisai la baka Herode batikaka belô oko mampa bii bô.
+
+\v 16 Bayekoli, bô la bô, bayaké la itangeli pe atepela: Elé itina ntembia mampa.
+
+\v 17 Ngengo eki Yesu ayebaké botindo boatangéa ba bô, atepela: Bokatungia nyò la nyò itna bosowa mampa diopa? Bole nko la nkamba boyeli, ntabo sosola yè?
+
+\v 18 Bodia bobonda wembu? Nokia béeso, nto yene ye? Bodia batoyi ntoboyoka ye? Ntombia bosoko?
+
+\v 19 Ngengo enki mi mbekeke mampa bitano itina dika bato nkoto bitano, botongholoko bisaka kwè bii biteni bi mampa? diomu la bi pée baokalomwa.
+
+\v 20 La pe ngengo enki mi mbekeke mampa bisambiale, la ndeyisia bato nkoto binei, bisaka bi biteni kwè, bi ki nyo botongholoko? Bisambiale baokalua.
+
+\v 21 Ngaku atepela nde: Nta sô bakamba nsosola?
+
+\s Na Betsaida Yezu abikisi moto akufá miso
+
+\p
+
+\v 22 Alekaka oko Bethesaide. Ba beleaka Yesu boto omo béeso basakowa, ngaku babotéa Yesu aowuta.
+
+\v 23 Awutaké bokonu oko lobô aobela oko bosale bo ndja: Aotika nsoi oko bèeso, aonangia ba bô, pe aoyiwola là ayene nkia yemba emo.
+
+\v 24 Alenda atepela: Nyene bato ngaku, mayene nkonga bété bekende.
+
+\v 25 Yesu aonangia lonkina babo oko beso, ngengo esa bokonu asisimia, ayene ndè abika, ayene nta polélé.
+
+\v 26 Ngaku Yesu aoyisena oko lowu lô ndé la ntepela nde: Ntayotuaka oko eteyi le ndja.
+
+\s Piere asakoli ’tè Yezu azali Mesia
+
+\r (Mt 16.13-20; Lk 9.18-21)
+
+\p
+
+\v 27 Yesu ndia bayekoli bá ndé baleka oko ndja bii nio nio, bi Sezaré le Filipo, pe aoyiwolaké oko mboka, bato batepela bé itina dimi?
+
+\v 28 Baokalua: Yowane boyini, bankina bakobesia Eliya, là omo loka basakoli.
+
+\v 29 Yesu ayiwola ndè: Ngaku nyo botepela wè ndé nani? Petelo aokalola nde: Olé Mesi?
+
+\v 30 Yesu atepela nta wembu nde nta botepelaka mbo biku nkia la boto ye.
+
+\s Yezu ayebisi ndenge akokufa pe akosekwa
+
+\r (Mt 16.21-28; Lk 9.22-27)
+
+\p
+
+\v 31 Ngaku Yesu abanga ndjebia bô, esako komama la wana oka boto ango nyokuama, bango boya, la bankumu ba bateyi baka Wangi itina di ndiaka nde awé, la mbisa le nsio bisato akundwa.
+
+\v 32 Atepelake mbo binkuma nta polélé, aku Petelo, aposo Yesu, aobéa oko bonki la nkasola ndé.
+
+\v 33 Yesu ayitia oko ndié eku; Ayene bayekoli bakasola Petelo: Atepela ndé ntoyaké mpika la mi, Satan! Itina ntotangeli mbo bika Wangi ye, odia nko batangeli baka bato.
+
+\p
+
+\v 34 La mbisa Yesu abesia esuku le bato la bayekoli bá ndé: Atepela nde là boto alanga mbenga mi, akaboya nde nkika, abela ingengwa (ekulusu) dii ndé la mbisa ambenga.
+
+\v 35 Ngaku, onè ongolanga mbikia bolimo bóo ndé, ango'ewungia, ngaku onè wungia bolimo bóo ndé itina di mi, la pe nsango le dilo, ango ke bikia.
+
+\v 36 Engondi bé leka boto lá asobá bolongo bonkuma pe awungia bolimo bô ndé?
+
+\v 37 Yemba be leka boto nsobitia la mbikia bolimo bô ndé?
+
+\v 38 Boto onkuma ongoyoka diemo itina dimi, pe itina dika bateyo báami, oko ngengo ènè ekela nyo pité la basumu, wana oka boto pe angoyoka diemo ngengo enga nde aye la lómu loka isé dii ndé, la b'andjelu ba tèe.
+
+\c 9
+
+\p
+
+\v 1 Atepela lonkina: Nta so matepela, bato bankina balanè ntabawé lantayeni bonkumu boliko boyaka languya.
+
+\s Nzambe alakisi lokumu ya Yezu
+
+\r (Mt 17.1-13; Lk 9.28-36)
+
+\p
+
+\v 2 Mbisa eka nsio bisamalo, Yesu abotitiaké ndela Zake la Yowane abelake oko liko li ngomba aka kalumwa botindo boonde oko ntondo lebõ.
+
+\v 3 Bisenda binde bidiki wée, wée bolé la mbindo bompa boto kibongo nta koké nsosa sosa, itina biyalé wée.
+
+\v 4 Eliya ndia Mose: bapasuaké oko ele bô, bayoka bwa Yesu.
+
+\v 5 Petelo, atepela Yesu: boteyi ebongo toyalé anè to dwé mbulu bisato, lomo loowu, lomo loka Mose, lonkina loka Eliya.
+
+\v 6 Ngako ntayebaka mbo bitepela ndé ngaku bayalaké la boomo ndia ba mbale ba ndé batepelé.
+
+\v 7 Ngaku bilengé bi diko bialipaké, iyoyi limo li tepela: Onē wana loomi lo lolango. Booyokelaké!
+
+\v 8 Nkoko ngengo eku bayekoli balendaké benki benkumela, bayene nko Yesu nde nkika là bô.
+
+\p
+
+\v 9 Ngengo eyabo ba kitelé oko ngomba, Yesu atepela: Nto tepelaké nkia boto mbo binè biyeni nyò, tii ngengo enga wana loka botó akundwé oko bawii.
+
+\v 10 Ngaku ba monyoké lobo lokò: baka yiwola nkundua oko eteyi eka bawii elé be.
+
+\v 11 Bayekoli baoyiwola ngane: Itina be basoni bitepela bwe ebongo Eliya ayé ntondo labé?
+
+\v 12 Akalola: Eliya eye ntondo itina alonde biemba binkuma. Labé esako komama wa oka bato ango nyokwama wuké pé ango tiolama.
+
+\v 13 Ngaku metela mie Eliya abe, pé baokela oko botindo bo langa bo, ndenge esaka ekomama itina lindé.
+
+\s Yezu abikisi Mwana azali na molimo mabe
+
+\r (Mt 17.14-21; Lk 9.37-43)
+
+\p
+
+\v 14 Ngaku ngengo eki bo babeleké mpika la bayekoli, bayeneké esuku le bato ealingela pé bakomeli ba kela biango boabo.
+
+\v 15 Ngengo eki bayene Yesu, bayaka lobango mbeka ndé.
+
+\v 16 Ayiwola: bokela biango nyo la bô la lobo bé?
+
+\v 17 Aku boto omo lo esuku akalola: Boteyi ndjaka oko lewu la wana lomi lo ewuwu.
+
+\v 18 Ngaku aoyoké aoyimba oko mbotu nfulo bi pasua oko munya, aka lè benyò, benyo baliki nsuensue, ngaku ngengo ekalè nde benyo ayondoké. Mbotitia ba yekoli baawu ntabakoké.
+
+\v 19 Atepela ndè, ngaku ibota li boyambi bokeke nso yala edié mi la nyo, nkanga bobonda la mbo binyo tii losio bé? Bo ndjé ndé. baoyela ndé.
+
+\v 20 Nkoko ngengo esa wana ayenē Yesu bolimo bobé bofukasana, akita oko mbotu aka bingosua mfulu bipasua oko munya.
+
+\v 21 Yesu ayiwola isé dii ndé, aso yala la bolimo bonē edié? Yima oko bolenge boo ndé aotepelé,
+
+\v 22 Ngengo binkuma bolimo boo bokaka oko twè too pé oko losi itina lo diaké.
+
+\v 23 Yesu aotepela: La oyamba!.. Binkuma bikoka nkeluama oko boto onè oyambela Wangi.
+
+\v 24 Nkaku isé dika wana oku a ngahaka: Ndjamba! yaka onsungé oko bobonda wembu boo mi.
+
+\p
+
+\v 25 Yesu ayenè bato wuké atumola bolimo boo bé, aotepela: «Bolimo bo mpekia ntepela pé ndjoka yoka nko paa be tindo pasua oko wana onè nto yitiaké lonkina»
+
+\v 26 Bolimo bo boka balolo, bosukisa wana la wembu, ngaku pé bo pasua. Oko ngengo enki wana adiki nkonga bowi, botindo bo nki bato wuké batepelaké bwè okowa.
+
+\v 27 Ngaku Yesu aowuta oko lobo aosunga la ndjaa wema.
+
+\v 28 Mbisa eko ayitiaké oko lowulu ngengo eki bayekoli ba ndé baoyuwuaké boto la boto: Ntato kokaka nkomba bolimo bonè la bé?
+
+\v 29 Yesu akalua ndè: «Bolimo boo botindo onè bokoka mpasua nkoko ibondeli.»
+
+\s Yezu ayebisi lisusu ndenge akokufa pe akosekwa
+
+\r (Mt 17.22-23; Lk 9.43-45)
+
+\p
+
+\v 30 Bayimaké oko ndié enki bo badiki, ngaku bapendaké bonki bonkina bo ndjalé. Yesu ntalangaka bayebé la alé nkoni.
+
+\v 31 Ngaku eteyaké bayekoli baa ndé nghanè: «Wana loka boto bangokapa oko ba bô baka bato pé bangoo diaka, mbisa eka nsio bisato ango kundwa.»
+
+\v 32 Ngaku bayekoli nta bayebaka mbo bi atepela ndé, bayalaké la boomo ndiwé ndé.
+
+\s Na kati ya bayekoli, nani aleki?
+
+\r (Mt 18.1-5; Lk 9.46-48)
+
+\p
+
+\v 33 Bayiaké oko kapalawuma. ngengo élebo oko lowulu, Yesu ayiwola bayekoli ba ndé: «Mbo bé bimanyo boyoka oko mboka?»
+
+\v 34 Ngaku bayalake bio, itina oko mboka bayalaké la biango bô la bô itina bayebé olé nkumu nani?
+
+\v 35 Ngaku ayalaké ansé, abesia bayekoli diomu la ba pelé atepela: «La boto akana ayalé botó lontondo ango yala boto lombisa pé mwana losala loka bato bankuma.»
+
+\v 36 Yesu afuaké wana omo lo elengè aotika oko eteteyi eka esuku eka bato, aonangola oko ba bò ba ndé, atepela:
+
+\v 37 Onè loyamba oko dina diimi nga elenge énè, andjambela mi minkika. Ngako onè ongo ndjambela nko mi, nta ndjamba nko mi, ayambela onè lokontomaka.
+
+\s Kozala lisanga na Yezu
+
+\r (Luke 9.49-50)
+
+\p
+
+\v 38 Yowane a tepela: Boteyi toyeni wele omo akomba belimo Béebe oko dina diwu pé toopekié, itina ntambé boto lo sô.
+
+\v 39 Yesu aokalola ndè: Nta bo pekiaké, ntembia boto okela bienua oko dina dimi. ngaku oko mbisa atepelé bobé bóo mi.
+
+\v 40 One ompa nta toboyé, alé lasó.
+
+\v 41 Metepela bososo la botó asoepa ikopo di losi bo miné, ibango bolé bato baka kristu, ntango kamba mbano.
+
+\s Kokweisa moto likambo ezali mabe
+
+\r (Mt 18.6-9; Lk 17.1-2)
+
+\p
+
+\v 42 La boto omo lompa ntoyebé mbo wuké aso ndjambela, la pe boto onkina asa bayimba la lobo, ebongo la ndalé ndé bosinga oko kingo ntungia oko iwé dii nene, boo boka oko ndjaalé.
+
+\v 43 La lobô lowu lokopaa ibaku, ebongo oebeke! ebongo oyotué oko ndja le libiko la lobô lomo.
+
+\v 44 Là ndjotua oko lifelo la ba bôo ba pele.
+
+\v 45 Lá lokolo lowu lokobela oko mboka lembé, beke lô, elé dilo oyotua oko bonkumu boo diko la lokolo lomô.
+
+\v 46 Là ndjotua bakolo ba pé oko lifelo, oko twè lompa nteko dimé.
+
+\v 47 La diso diiwu dikobeléa oko mboka lembé, yimia dio! Ebongo osa la diso dimo oko bonkumu boka Wangi; là nsa oko lifelo la bèeso ba pé.
+
+\v 48 Oko bekiso bekolè bienge bika bato, ntéekowa, oko pé twè nteko dimé.
+
+\v 49 Boto onkuma angoleka oko twè loo bonyoko, ango yamba bokua bo petwa.
+
+\v 50 Bokwa elé yemba le dilo; là mbili lekio esosia, ongo yitia mpa bô mbili onkina ngamoni? Boyala la bokwa nyo nyò nkiinka, yoyii eyala la omo la omo.
+
+\c 10
+
+\s Mateya ya Yezu po na koboma libala
+
+\r (Mt 19.1-12; Lk 16.18)
+
+\p
+
+\v 1 Yesu, asake oko bokili boka bayuda oko loko lo yalalandene, npe esuku lebato bakelake boyongano oko lende, nkonga nde akele nsio binkuma nteya bo lokina.
+
+\v 2 Bafalisayi bayibolake Yesu itina di mekande ebongo la mwele nyimia ilaka di dinde.
+
+\v 3 Akalolaka nde: Bobekobe boki Mose akomelake?
+
+\v 4 Bwe Mose aapake mboka wele akome bo kanda bo ndiaka ibala lambisa la nyimia nde oko ibala.
+
+\v 5 Yesu atepelé ndé: Elé itina like bobonda wembu bonyo kieku Mose aepa bobeko boku.
+
+\v 6 Bangalore ibangelo liolongo Wangi akelaké welé la weto.
+
+\v 7 Kieku welé atwenya isé la nyango akalamia ndé la ilaka,
+
+\v 8 Boapelé bango yala moto omo, ngaku ngaku bato bapelé bayà moto omo.
+
+\v 9 Ngaku boto nta koké nkapola yemba less Wangi alamia.
+
+\p
+
+\v 10 Ngengo esa bayotwé oko ewulu bayekoli bayibola Yesu itina like lobo eku.
+
+\v 11 Atepelé one lokomba ilaka dindé la mbala linkina Akela pité.
+
+\v 12 Làpé weto aboya linkina làndé akela pité.
+
+\s Yezu ayambi bana mike
+
+\r (Mt 19.13-15; Lk 18.15-17)
+
+\p
+
+\v 13 Baobela bilege bi nini la mbuta bo ngaku bayekoli bayisena bato bamoye lilenge.
+
+\v 14 Yesu ayene akalola botwenya baba nini bayé oko lemi ibango bonkumu loka Wangi bole oko bato ba botundo bobò.
+
+\v 15 Metepela lososolo one ompa nto yambe bonkumu boka Wangi nga wana lo elenge leni nyango yotwa oko ye.
+
+\v 16 Aposo oko babò, apambolaké atike bo babò.
+
+\s Moto ya bomengo
+
+\r (Mt 19.16-30; Lk 18.18-30)
+
+\p
+
+\v 17 Ngengo eki Yesu apasuaké oko mboka boto omo asake lobango aka tika nkulu ba bolongo oko ntondo lendé: Boteyi bo dilo, nkele be itina mba bonkumu bo diko?
+
+\v 18 Yesu aotepela ndé: itina bé ombesia boto lo dilo? boto lodilo nko Wangi ndé nde nkika.
+
+\v 19 Oyeba bebeko: Ntokele ekobo, nto diake, nto suké, nto tepé bongala, ntosangitie mbale lobo, totia isé la nyango.
+
+\v 20 Aokalola: nsako memia bebeko beko be nkumela yima bolenge bo mi.
+
+\v 21 Yesu aolendaké aolangaké ngaku aotepela ndé: ekamba yemba emo, tekè biemba binkumela bi liawu, pa bio oko mbolo ngaku ongoyala la bobalelo oko liko. Ngaku yaka pe ombenge.
+
+\v 22 Ngengo eki ndé ayokaké iteyo diku, ayiake la iseyi ibango aliki boto lo bobalelo wuke.
+
+\p
+
+\v 23 Yesu alendaké oko mpika mpika làndé, aotepela bayekoli hands: Ele bonkumu là bato ba bò balelo nyene bonkumu bo liko.
+
+\v 24 Bayekoli bakabake wuke là mbo binki Yesu atepelake, ngaku ayitielake iyoyi diko, atepela: Baba bami, Elé bonkumu là bato bane bakapa la bobalelo nyotua oko ndja eka Wangi.
+
+\v 25 Ntembe bonyuku wana omo lo mpunda nyotua oko ikusu li ndongo, ngaku ele bonyuku la boto lo bobalelo wuke mba bunkumu bo liko!
+
+\v 26 Bayekoli bakabake lonkina, ba tepela omo mbisa eka enkina: Boto nani lobongo mbikambika?
+
+\v 27 Yesu alendake ngaku atepela: Ntembe konyo oko Boto, nkoko Wangi. Ngaku binkumela bile konyo oko Wangi.
+
+\p
+
+\v 28 Petrol atepela, tosako twenya binkumela tosako ko benga.
+
+\v 29 Yesu akalola: Me tepela la bososo boto omo atwenyaka lowulu londe, ba mbale bande, ise linde, nyango lende, bana bandé la batia bendé,
+
+\v 30 Boto oko iba bio mbala bonkama mpenda mbulu binde, ba mbale bande, ise linde, nyango lende, bana bandé, laba tia bande oko nsio bine; oko nsio biyaka ango ba bunkumu bo liko.
+
+\v 31 Bentondo bangoyala bembisa, be mbisa bango yala be ntondo.
+
+\s Yezu ayebisi lisusu mbala ya misato ndenge akokufa pe akosekwe
+
+\r (Mt 20.17-19; Lk 18.31-34)
+
+\p
+
+\v 32 Baliki oko mboka itina lika base oko yelusalema, Yesu ayake ntondo lebo bayekoli bande la bato bankina bane bako bengaka. Bobankuma bayalake la bomo. Yesu alamiake bayekoli bande diomu la bapé lonkina ngaku abangaké la atepela bo mbo bingoyela.
+
+\v 33 Atepela, Bolendà toleka oko yelusalema okò onga wana loka boto atekeme oko babo baka ba nkumu la ba soni be beko. Ngaku bango beke etumu le iwa, ngaku bango kapa oko babo baka bakinoli.
+
+\v 34 Bango tiola bango tua nsoyi bango bwa bemiekwa pé bango diaka, ngaku oko mbisa eka nsio bisato ango kunduama.
+
+\s Moto alingi kozala mokonzi ákóma mosali
+
+\r (Matt. 20.20-28)
+
+\p
+
+\v 35 Bana baka Zebede, Sake, la Yowane bayake mpika la Yesu, boteyi oto keléa mbo bine biko bondea so.
+
+\v 36 Bokana mekelee be?
+
+\v 37 Baotepela tokana toyalé ansé omo oko nkoso omo oko ndeli lewu ngaku ongawu ngengo enga wu oyalé oko bonkumu.
+
+\v 38 Yesu atepela: Ntoyeba yemba le mbondela nyo. Bongokoka mina oko ikopo limina mi, la nyinua oko boyini boka mi nyinua ntongokoka?
+
+\v 39 Yesu akalola: elé sóo bokoka mina oko ikopo dimina mi, boka nyinuama oko boyini bo koka nyinuama mi.
+
+\v 40 Ngaku itina dika onè oka ndja ansé oko ndeli là pe oko nkoso lemi, eku ntée ndenda mi ye, ndié eku Wangi asoka londa itina dika bato báa nde asako sôo.
+
+\p
+
+\v 41 Bayekoli bandé diomu bayokela Jake là Jowane iyulu.
+
+\v 42 Yesu aabesia pé atepela: Ntoyeba yè' bato banè bayene nkonga bunkumu ba biemba, bayenia bonkumu boo bô; bato banène bayenia bato bàa bô mbedi.
+
+\v 43 Ntengo yala ngaku oko nyo, onè olanga ndjaa nkumu ayala boto losàa loka ba mbalé.
+
+\v 44 Moto onè olanga ndjaa ntondo leka bambalé, ayalé bongamba boka bambalé binkumela.
+
+\v 45 La ngaku wana loka boto ayaké ntembé la ndja nkumu, ndé ayaki la nsunga bankina, ndé la mpàa bolimo bó ndé itina dika nyimia bato oko bontamba boka bato bankina.
+
+\s Yezu abikisi Bartimé, moto akufá miso
+
+\r (Mt 20.29-34; Lk 18.35-43)
+
+\p
+
+\v 46 Ngengo enki bô ba baéke oko Yeliko. Aku Yesu apasuaka ndé la bayekoli báa ndé, là esuku le bato wuké, wana loka Timé, Bartimé onè obondela bato biemba, asakobodia mèeso adiki ansé oko bonkii bó mboka.
+
+\v 47 Ngengo enki ndé oyokaka ndè Yesu le nazalete alaku, a ngahaka wana loka Dawidi ondjokaami iseyi!
+
+\v 48 Bato wuké ntalangaka ndé atepela, nkia ngaku ndé nta tuénya ntepela angahaka wembu lonkina mpenda penda: wana loka Dawidi ondjokele mi iseyi.
+
+\v 49 Yesu ayémàa atepela ndè: besia ndé, baobesia moto Osaka mèso ba bodia, Baotepela kanda lômo; yéema, akobesia wu.
+
+\v 50 Ngaku aboka esnda lé ndé, asotua aleka oko Yesu.
+
+\v 51 Yesu aayiwua, bokana nkokelua bé? Rabouni, boto osako bodia méeso, ndanga nyene lonkina.
+
+\v 52 Yesu aotepela ndè: leka boyambi bô wu bosoko bikia. La mbala emo ayene lonkina, abenga Yesu oko mboka.
+
+\c 11
+
+\s Yezu akoti na Yeruzalem
+
+\r (Mt 21.1-11; Lk 19.28-40; Yn 12.12-19)\\
+\p
+
+\v 1 Ngengo enki bô babeleké mpika la Yelusalema, loko lô betefaze pé la betani oko engenza le ba-olive, Yesu atomaké bayekoli baa ndé ba pelé.
+
+\v 2 La ntepela bô: boleka oko ndja élé oko ntondo le nyo; là bosoyia oko, bongo yenè wana lô mpunda etuti la bosinga oko nkingo nkia boto omo ntakondeli oko kio, fungola kio, yala la kio.
+
+\v 3 Là boto omo asokotepela ndè: bokela ngaku bé? Kalola: nkumu alia bosenga Là kio, ngaku aépa kio.
+
+\v 4 Bayekoli baleka, bafua wana lô mpunda onè lokosolalema loko lô ekuku emo oko eteyi le bala bala, bakesotola.
+
+\v 5 Baamo bankina bakodiki béema oko bayiwola bwè: bokela bé? Bokangola wana lô mpunda itina bé?
+
+\v 6 Bakalola nga botindo boki Yesu atepelaké. bapaa ngengo le nsaka saka.
+
+\v 7 Balela Yesu le mpunda, oki bô babokelaké bisenda oko mboka, pé Yesu bayalaké ansé oko diko dii kio.
+
+\v 8 Bato wuké batandeké bisenda bii bô oko mboka, bankina mpandi bii be té. Biki bô babekeké oko batia baa bô.
+
+\v 9 Banè badiki ntondo la banè badiki bisa le Yesu, ba ngahaka: ozane! Onè loyaka la dina dika Wangi asanjolama.
+
+\v 10 Sanjolama bonkumu boo yaka, bonkumu boka Dawidi, isé diso, ozana oko ndié bii leka diko.
+
+\p
+
+\v 11 Yesu ayoto oko Yelusalema, oko lowu lô Wangi. Ngengo enki ayeneke biemba binkumela, la ikolo asaké lonkina oko Betani la bayekoli naye diomu la pé.
+
+\p
+
+\v 12 Mbisa leka losio lomo, ngengo enki bayimaké oko Betani Yesu ayoka ndjala.
+
+\v 13 Ayeneke bèlé boté bo figi ediki la nkasi wuké, aleka ndenda kio, ayene la ango bá nkia mbolo, ngengo enki ndé abele mpika la kio, ayene nko nkasi bi nto nto, nkia loboo lomô ye, itina ngengo le mbota mbolo ntekoyi ye.
+
+\v 14 Yesu atepela, nkia moto onkina ntangolè lobolo lowu ye, bayekoli bayokaki mbo bitepela ndé.
+
+\s Yezu akoti na Ndako ya Nzambe
+
+\r (Mt 21.12-17; Lk 19.45-48; Yn 2.13-22)
+
+\p
+
+\v 15 Ngengo eki babéké oko Yelusalema, bayotua oko lowu lô Wangi, abanga nkomba bateki lá ba sombi biemba oko lowu lô Wangi, akalomwa Mesa bika bato sanzé faanga la bibonga bika bateki bimbenga.
+
+\v 16 Ntalangaka nkia boto omo oyotia yemba oko eteyi le lowu lô Wangi.
+
+\v 17 Ateyaka pé atepela: nte sako kokaka bwè: lowu loo mi longo besiama lowu lô babondeli itina dika bolongo binkuma? Ngako nyo, bosakoétika lowu loka bayibi.
+
+\p
+
+\v 18 Bankumu bika batumbi ya mbeka là basoni ba bebeko, bayenga mboka le ndiaka ndé. Ngako bayalaké la boo mô itina l'esuku le bato eku babetemeke la bateya báa ndé.
+
+\p
+
+\v 19 Ngengo eka ikolo iyaké, Yesu apasuaké oko ndja.
+
+\s Bayekoli batuni Yezu po na ya figi
+
+\r (Mt 21.20-22)
+
+\p
+
+\v 20 La mpendu, ngengo enki Bayakoleké, bosuké (booté) bosakoétika yoma tii oko besisa.
+
+\v 21 Petelo akanisaké binè bikolekaka, atepela Yesu: boteyi lenda booté (bosuké) bonki wu bayambaké boyoma.
+
+\v 22 Yesu ayisenéa atepela: boya la boyambi oko Wangi.
+
+\v 23 Metepela nta sóo, lâ boto atepela la ngomba: Yima oko ndié eku, kaboka oko ndjalé, la ntambia miango oko bobonda boo ndé, ebongo nkeluama oko ndé.
+
+\v 24 Itina bé: Binkuma binga nyo bobondela oko lobotitia bingo epaluama.
+
+\v 25 Ngengo élenyo mwemwa la Mbotitia, lá mbale emo adia lobo loka mbalé, aosamba, itina isé dii nyo diloko dikô aésamba oko bawunga baa nyo.
+
+\v 26 Lâ nto kasamba, isé dii nyo diloko dikô ntangoa samba la bawunga baa nyo.
+
+\s Nani apesi Yezu bokonzi?
+
+\r (Mt 21.23-27; Lk 20.1-8)
+
+\p
+
+\v 27 Ayitiaké lonkina oko Yelusama, ngengo leki Yesu asako kendé oko lowu loka Wangi, batumbi mbeka bankuma, la basoni, la bankuma bayaka oko ndé.
+
+\v 28 Oko bonkumu bé bokela wu mbo binè: boto nani akopaa bonkumu bokela mbo biku?
+
+\v 29 Yesu aakaluaké; mi pé meyiwua eluki emô; la bosonkalua mi pé ngoétepia la bonkumu bé bokela mi mbo binè
+
+\v 30 Boyini bika Yowane boyimaké oko dikô, la pe oko bato bonkalwé.
+
+\v 31 Bakanisaké bô la bô: Là tokalua swè: oko dikô, angotepela ndé: ntaboyambelaka la bé?
+
+\v 32 Là tokalua swè oko bato... balotaké bato itina bato bankuma bafuaké Yowane nkonga bosakoli.
+
+\v 33 Ngaku bakalua Yesu: ntatoyeba. Yesu atepela: Lâ mi pé ntiyeba, ntingo-étepela la bonkumu bokela mi mbo binè.
+
+\c 12
+
+\s Lisapo ya bafuteli mabe ya elanga
+
+\r (Mt 21.33-46; Lk 20.9-19)
+
+\p
+
+\v 1 Yesu abangaké ntepela bô lonkina oko batandia. Boto omo ayona vino. Ake dingelaké oko lopango, atima ipoku di bawé itina dika moi I to vino, adwa lowu lo bontalé itina dika mbatéla vino, la mbisa atika bafuteli, la mbisa aleka lokendo oko ntundu enkina.
+
+\v 2 Oko ngengo le nduka mbolo, atoma boti bonde oko bafuteli ba batia itina di mfua mbolo bi vino.
+
+\v 3 Baowuta, baobola la biemba, baoyisena ba bô nto nto.
+
+\v 4 Ayitia ntoma boti bonkina oko lèbo baoboka mpota oko botu la mbisa baowunda.
+
+\v 5 Ayitia in tomato ma boti bo basato, baodiaka, atoma bati wuké lonkina, bayitia nko ndiaka.
+
+\v 6 Adiki la wana lo wele, odia nde lolango wuké aotomaké nde oko le bô mbaé mbisa, ibango ale wana lomi nkika bango memia.
+
+\v 7 Kasi bati bakatepela bô la bô bwè: "Enda wana lo ndé bo yaka todiaké, bomengo bongo ya boso."
+
+\v 8 Pe baowuta, baodiaka, baoboka oko bosale bo itia.
+
+\p
+
+\v 9 Ngaku bondua itia angokéa be? Ayaka ndiaka bati bankuma, apa itia oko bati bankina.
+
+\v 10 Lelo ntabotangii bontika onè oko bekanda beka Wangi bwè: Iwé diki baludi babokaké dia, lisakoyala, iwé diwuta lowu lonkuma loka Isalael.
+
+\v 11 Lobo loko losokelwama la Wangi: elé pe itandia oko bèeso baa so.
+
+\p
+
+\v 12 Bankumu ba bayuda, baoyalwaké itina baowuté, mpamba ye bayebake bwè apake itandia diko itina dii bô. Ngako balotaké esuku le boto batuenya baleka la lóbô.
+
+\s Mpaku ya mokonzi monene ya Rome
+
+\r (Mt 22.15-22; Lk 20.20-26)
+
+\p
+
+\v 13 Batomaké bafalisayi bankina, la bato baka nkumu Erode oko le ndé, itina bao yimbé la mbo binki nde atepelake nde nki ka.
+
+\v 14 Ngako bayaké pe bao yiwua: Botei toyeba nta sôo, ntoko dimbé, ntoko loté bato, ntoko sole bato, ngako oteyaka mbo bi sô itina dika Wangi. Bebeko béeso bepekiaké nfuté mpakó eka bokonzi bônene bona Rome to ye?
+
+\v 15 Yesu ayebake bobangié ba bô, atepela nghane: bóomeka itina be? Bondjé faanga emo l'epeko.
+
+\v 16 Baoyela kio, ngako Yesu ayuwua: Boso, bonè la dina dinè dika nani? Baokalua nghane: dika Sezar.
+
+\v 17 Atepela nghane: Bopàa Sezar binè bika Sezar, binè bika Wangi pe bo paa Wangi. Ngako bakalenda pe bakaba.
+
+\s Motuna po na kosekwa
+
+\r (Mt 22.23-33; Lk 20.27-40)
+
+\p
+
+\v 18 Ngaku ba sadusé bayaké oko Yesu. Ele basadusé bato bakotepelaka bwè boto laso wa ntango kundwa. Ngaku ba oyuwuaké,
+
+\v 19 boteyi, lenda mbo biki Mose akomaké: la mbale omo le ibotua, asowa ntaladié wana mbale lende abali mweto oku abota bana itina dika mbale oku esakowa.
+
+\v 20 Ngaku ediki la bana basambialé ba ibotwa dimo, lontondo abaké weto ntabota awa.
+
+\v 21 Lwa pe abala mwete oku awa ntaba bota, lwa sato botindo bomo.
+
+\v 22 Oko boo bankuma basambiale ntabota nkia wana. La mbisa eko mweto oko la nde awa.
+
+\v 23 Ngengo le nkundwa, nde ango yala mweto loka nani? Itina idiki ilaka dii bô bankumala basambiale.
+
+\v 24 Yesu akaluake nde: baloko iwungi ibango ntoyebe bakomi là pe nguya leka Wangi?
+
+\v 25 Ngako oko bakundwé bélé ntango bá beto, beto pe ntango bá bélé, ngako bangoya nkonga ntoma oko diko.
+
+\v 26 Itina dika lobo lo bakundwelo, nyo ntotangaka buku loka Mose, botepela Wangi nde, itina lika boté bonè boko peteke, Wangi atepelaka la Mose ngane: Nde Wangi boka Abalayama, Isaka, la Yakobo?
+
+\v 27 Wangi ntambe Wangi boka bawi, kasi ale Wangi boka bato bale oKo bomoyi, bolé oko iwungi dii nene.
+
+\s Mobeka nini eleki
+
+\r (Mt 22.34-40; Lk 10.25-28)
+
+\p
+
+\v 28 Omo loka basoni ayokaké ngengo etoko bô ntepela bô la bô, ayeneke ndè Yesu akaluaké dilo, ngako akasisa mpika la ndé, aoyuwua nde: bobeko bé boopenda bebeko benkumela?
+
+\v 29 Yesu akalola: Bolenda bontondo: boyoka Isalele, Wangi bósó ale nko Wangi bomô.
+
+\v 30 Ngako ongo langa nkolo Wangi boowu oko bobonda bowu bonkuma, bolimo, oko intangeli pe nguya lewu enkuma.
+
+\v 31 Lenda bonè bobi pele: Olanga mbalé lewu nkonga ekalanga wu wu nkika.
+
+\v 32 Bosomi aatepela nde, ele nko ngaku, moteyi otepela ntasoo media nko Wangi bomo, ntembia bonkina nga nde.
+
+\v 33 Langa nde la bobonda bowu bonkuma, batangeli bawu bankuma, oko bolimo bowu bonkuma, oko wembu bonkuma, pe langa mbalé lewu nkonga ndenge enkawu oka langa wu wu nkika, ependa ntumbela Wangi mbeka la mpa nde bakapo.
+
+\v 34 Ngengo enki Yesu ayeke nde asoyisena nkalo le dilo, aotepela ndè ntombé bèle la bonkumu boka Wangi ye. Nko losio eku nkia boto omo nta koka ndjisena nde nkia nkalo.
+
+\s Mesia azali mokonzi ya David
+
+\r (Mt 22.41-46; Lk 20.41-44)
+
+\p
+
+\v 35 Yesu atoko nko nteyateya oko lowu lo Wangi, atepela: Nghamoni basoni batepela bwè Christo ale wana oko Dawidi?
+
+\v 36 Dawidi nde nkika atomuamake la bolimo bo tèe atepela nde: Nkolo atepeli la nkolo lemi nghane: Ya la mpiko la mi oko ndié le lumú tii oko ngengo engami ntika bayini oko nsé le bakolo baa wu.
+
+\v 37 Dawidi nde nkika aobesia Nkolo nkango ale wano londe nghomoni?
+
+\s Balaki-Mibeko, bato ya lokuta
+
+\r (Mt 23.1-36; Lk 20.45-47)
+
+\p\\
+Esuku lenene banyoka la nyinga.
+
+\v 38 Atopelake oko iteyo di nde: Boyalaka la nkepo la basoni, banè balanga ndata bisenda bi bitali la nkende la bio itina bao beke oko ndie bile bato wuké,
+
+\v 39 bayenga bibonga bi dilo oko eteyi le lowu lo Wangi. Lonkina oko ndié bi ntondo laa nteko ele oko.
+
+\v 40 Bakumwaké biemba bika weto losaka ilaka awa, pe babondeli ba bongala, bangoba etumbu le penda bonene.
+
+\s Likabo ya mwasi moko akelelá
+
+\r (Lk 21.1-4)
+
+\p
+
+\v 41 Yesu asaké ndjansé mpika la esaka le bakapo, ngaku alendaka ndenge etika bato faanga. Nuami batikaké faanga wuké.
+
+\v 42 Weto omo osaka ilaka awa, ayaka, atika piase bipée bi bosio nio.
+
+\v 43 Ngaku Yesu abesia boyekoli baa nde atepela: "Metepela nta soo mbó le weto ene apá mpenda bato bankuma.
+
+\v 44 Pamba ye bato bankumala bapali faanga binè bi mpa ntimbia itina oko bôo, ngaku nde la bo mbôo bonde apali faanga binkuma bi kodiki la nde, bii koka mbikia nde."
+
+\c 13
+
+\s Yezu ayebisi ’tè Ndako ya Nzambe ekokufa\\
+\r (Mt 24.1-2; Lk 21.5-6)\\
+\p
+
+\v 1 Ngengo eki yesu apasuaké oko lowu lo wangi, boyekoli bó ndé bomo atepela: Boteyi, lenda bawé bá nene ngane, la lowu loénene ngane!
+
+\v 2 Yesu aokalola: oyene mbu biku Bienne? Nkia iwé dimo ntingo tikaa oko ndié lekio. binkuma biku bango'epanza.
+
+\s Pasi pe minyokoli ekoya
+
+\r (Mt 24.3-14; Lk 21.7-19)
+
+\p
+
+\v 3 Ngaku Yesu aleka ndja ansé oko ngomba le olivie, oko mbisa eka lowulu lo Wangi. Ngaku Petelo, Jake, Yowani, la Andele baoyiwua oko moseme itina dika eluki eko.
+
+\v 4 Baotepela, mbo biku bingokeluama ngengo bé? Edimbetelo bé engolakia wè mbo binè bikanokoka?
+
+\p
+
+\v 5 Ngaku Yesu atepela ngane: Boyala la nkepo, boto omo ye, ntaedimbaké.
+
+\v 6 Ngaku bato wuké bangoya la dina diimi, la ntepela, elé mi, bango dimba bato wuké.
+
+\v 7 Ngengo enga nyo boyoka bitumba, nta boloté, itina mbo biku binkuma bingo ya. Ntengoya ikumelo.
+
+\v 8 Ngako bitumba bingo ya oko ndja la ndja, ntundu la ntundu, mbotu bingo sukasana ndié binkuma, ndjala engo yala. Ngaku engoya nko ibangelo dii mbali.
+
+\p
+
+\v 9 Boyala lankepo nyonkika. Bangoebela oko tibinale, bongo'ebete miekwa oko mbu bi lobotitia láa dimi, bangobea oko ntondo eka bankumu ba ndja, pe bankumu ba bituka bi ndja, itina bobaa mboka le ntepela bô itina dii mi.
+
+\v 10 Ebongo la ntondo nteya nsango le dilo, oko ntundu binkuma oko bolongo.
+
+\v 11 Ngengo enga baya itina baewuta, nta bokieteneke wuké itina di mbo binga nyo boa atepela, botepela bine bingo yala oko ngengo eku, itina ntembe nyo bato bango atepela, elé bolimo bó tèe.
+
+\v 12 Ba mbalé bango teke mbalé le bô itina boo diaka, Isé bango teka bana. Bana bango kamba imemia oko baboti baa bô, engo'abea oko iwa.
+
+\v 13 Bato bankuma bangoeyina itina la dina dimi, ngaku moto ongo yika mpiko tii oko ikumio ango bika.
+
+\s Yeruzalem ekokufa
+
+\r (Mt 24.15-28; Lk 21.20-24)
+
+\p
+
+\v 14 La boyene nta bopiti bosoya oko ndié énè lempa nte bongo la ndé ndja yala, one ongo tangé mbo binè ayalaka la nkepo, ngaku banè bango yalé oko yude bango lota oko ngomba.
+
+\v 15 One ongoyaa oko diko di botondo ntango tulwa ye pe ntango yotwa itina afwa yemba oko lowu lo ndé,
+
+\v 16 one ongoyaa oko itia ntango yitia mbisa itina afwa bonkoto boo ndé.
+
+\v 17 Mpasi oko béeto bane bango yaa bienge bipele (ibalé), là banè ba minia bana oko nsio biku!
+
+\v 18 Bobotitia itina mbo biko nta biyake oko ngengo le mpio.
+
+\v 19 Mpamba ye nsio biku mbali lé wembu engo yala, mbali le ndenge eku nteyeli nkia mbala emo, yima nko ibangelo bika biemba binkuma tii laku boko ntengo yene lonkina.
+
+\v 20 Là Wangi ntangolanga nyimia ndambu bii nsio, boto omo nta kana mboka, ngaku alangaki nyimia itina la bato basaka ndé asôo.
+
+\p
+
+\v 21 Là boto omo asoétepela: Yesu alé anè, "To: aloko, nta bo yambaké.
+
+\v 22 Oko ngengo eku, biangi, basakoli béengala bango pasua wuké, bango kela bienua iti dii ndimba dimba nkia banè baki Wangi asako sóo.
+
+\v 23 Boyala la nkepo, meyebéaka ntondo mbo bingo yáa.
+
+\s Koya ya Mwana ya Moto
+
+\r (Mt 24.29-31; Lk 21.25-28)
+
+\p
+
+\v 24 Oko nsio biku bato bango nyokwama wuké, la mbisa, wané ntongo pasua lonkina wembu, wedi ntongo kèse lonkina.
+
+\v 25 Bièeto beyimaka oko diko, bekita oko nsé, nguya ekdiki oko diko nsukisana.
+
+\v 26 La ngako bongo yène wana loka boto oko eteli bii diko akita, la nguya le wembu pe kembo leka Wangi.
+
+\v 27 Ango toma báandjelu balamia ndié emo, banè baki ndé asako sô oko bolongo bonkuma.
+
+\s Ndakisa ya nzete ya figi
+
+\r (Mt 24.32-35; Lk 21.29-33)
+
+\p
+
+\v 28 Lokodimia loka bosuké (boté) éeteya: là pandi bikio bilembe, biboka nkasi, ngaku, boyene ngengo le nduka mbô biyáa mpika.
+
+\v 29 Nko ngaku, ngengo lengo nyò boyene mbo biku bisoya, éledilo boéyeba: wana loka boto akano ya, aloko ekuke le nyo.
+
+\v 30 Métepela, elé nta só: là mbo biku bi bèe, bato ba iyalo inè ntangowa bô bankuma.
+
+\v 31 La diko, la mbotu engo wungha, bayoti báa mi ntongo wungha nkia losio lomô ye.
+
+\s Kaka Nzambe moto ayebi mokolo ya suka
+
+\r (Mt 24.36-44)
+
+\p
+
+\v 32 Là losio, là ngengo enga mbo biku bingo yáa nkia boto ntayeba yè: nkia b'andjelu baka Wangi, pe nkia wana. Tata ndé nkika boto oyeba ngengo eko.
+
+\v 33 Boyala la nkepo! nto tanaka ye. Ibango, ntoyeba ngengo lenga mbo biku bingo yáa.
+
+\v 34 Elé nkonga lokodimia, là boto omo akanosa lokendo. Ayima oko lowu lo ndé aétikiéa oko bato béesa. Apaa boto la boto bosala akela, pe apa betindo oko onè okó ya oko ekuké le lopango, yala la nkepo! ntongo yeba ngengo enè.
+
+\v 35 Yáa la nkepo! ntongo yeba ngengo enki bondwa lowu ango yáa. Engo yáa la ngengo d'ikôo, la pe l'eteteyi le bô tio, la ngengo enga nkoko abeka, la pe la mpembu.
+
+\v 36 L'asoyaa nko mbalé emo, ntengo yáa dilo ye l'asoétana oko isilo.
+
+\v 37 Enè étepela mi, ntepela bato bankuma: boyala la nkepo.
+
+\c 14
+
+\v 1 Etikalaké nsio bipelé ntonto itina lika feti le mampa le kamba levure ebongoké ekeluame, bankumu baka bateyi ba bosini bayengaké boyeli bo mbuta Yesu itina baóliaké.
+
+\v 2 Batepelaké boe: Ntebongé ngengo le ntekò, ibango botokasani boka bató ntaboyalaké.
+
+\v 3 Nga oki Yesu aliki oko Betania oko lowulu loka Simona le nkatote, weto omo ayotua, oko ngengo ekibo baliki oko mesa. Aliki la bolangi bo balasa bo albatre, bolipi la balasa ba bosio dina "nard", asotola nsokó eka bolangi okò, alisa Yesu okò botu.
+
+\v 4 Baamo bankina batepela boabo la bayulu boe itina be li mpita balasa bane?
+
+\v 5 Tokokaké nteke bô mpenda mpata nkama bisato pe bakokaké mpa bo oko ba mbolò. bakasolake weto oko.
+
+\v 6 Yesu atepela: Botuenya nde. Itina be dio yenia nyo walé? Asokela nta lobo lo dilo itina li mi.
+
+\v 7 Bolia mbolò nsio binkuma, bokoka la nkelela bô dilo la bolanga mpe ntombia mi nsio binkuma yè.
+
+\v 8 Weto one akélaké binè bikoka nde nkelakela. Amo ndisa balasi itina di ndonda biengé bi mi ntondo baa nkunda.
+
+\v 9 Ntasolo metepela ndie binkuma binga ba panzé sango dilo, oko bolongo onkuma, angóyoka itina lika weto oku.
+
+\v 10 Yuda Iskariote, omo loka bayekoli diomu la bapelé baka Yesu basaké oko nkumu leka bateyi baka Wangi itina dika ntèkeYesu.
+
+\v 11 Ngengo ekibo bayokaké lobó eku, bayokaké nyinga bwe bangoapa bosòlò. Kio kieku Yuda ayengaka botindo bé bokoka ndé mpa bo Yesu oko ba bô.
+
+\s Yezu alei bilei ya feti Koleka ná bayekoli na ye
+
+\r (Mt 26.17-25; Lk 22.7-14, 21-23; Yn 13.21-30)
+
+\p
+
+\v 12 Eyalaké losio lo ntondo oko ntekò le mampa lémpa ntoyama; losio loki bô badiakaka mbata itina dika nteko. Bayekoli ba yibola Yesu: Ndié be elanga wu tokolondela itina dika le pasika.
+
+\v 13 Ngaku Yesu atomaké bayekoli bapelé, atepela boleka oko ndjaa l'imonga bongoyene boto omo ongobela ekutu le losi, bo benga ndé.
+
+\v 14 Ti oko ndié enga nde ayotua botepela ba ndua lowulu nghane: Boteyi ako yibola: Ndie bé ekoka nde ndekeleke biemba bi nteko le pasika mia bayekoli ba mi?
+
+\v 15 Ngako nde angoelakia ndié emo lenene oko lowulu lodiko, lolia biemba binkuma oko eteyi: okò ndieku elonda nyó pasika.
+
+\v 16 Bayekoli basaké pé babele oko imonga, bayene biemba binkuma nga okindé atepelaké; balonda biemba bi pasika .
+
+\p
+
+\v 17 La ikolo Yesu abele ndia bayekoli bandé diomu labaplé.
+
+\v 18 Baya ansé aku pé ba banga ndèkēlè, nkaku Yesu atepela: metepela, la bososolo omo lonyo lolé lami angoteke.
+
+\v 19 Bayekoli bayalaké l'isei babangaké njibola ndé omo là omo; elé mi?
+
+\v 20 Akalola: botó ongonteké mi omo oka diomu la bapélé bà mi, oné onga mi mpa babô, mi landé oko sani.
+
+\v 21 Wana oka boto angówa ndengé esaka kio ekomama, ngako iseyi wuké oko botó one ongoteké, ebongo dilo nkia la boto oko nta botwaké.
+
+\s Nzoto ná makila ya Yezu
+
+\r (Mt 26.26-30; Lk 22.14-20; 1 BKrt 11.23-25)
+
+\p
+
+\v 22 Ngako ngengo etoko bô la ndèkēlèke Yesu afuake mampa, ateliaké Wangi pé akapelaké bayekoli bà ndé, one elé bienge bimi.
+
+\v 23 Là mbisa afuake ikopô, abotitiaké Wangi ntondo lé mpa ikopô oko bayekoli bandé ngaku bankuma ba minaké.
+
+\v 24 Atepela, one elé balongó baami, ba boyokani boka Wangi ndé labató bangó lò itina loka bató wuké.
+
+\v 25 Ma tepela bosòsò: ntingo mina lonkina vino enè ti nko losio longa miné vino le sika okò ndjaa leka Wangi.
+
+\v 26 Là mbisa bayémbàké njembo pié baléka oko ngomba lé ba-olive.
+
+\s Yezu ayebisi ’tè Piere akowangana ye
+
+\r (Mt 26.31-35; Lk 22.31-34; Yn 13.36-38)
+
+\p
+
+\v 27 Yesu atépélaké bayekoli bandé: nyo bankuma bongówungisa boyambi bônyó itina dimi, ibango esakó komama ngaku: «Ngo diaka bokengeli ngaku mbata binkuma bingo pandjana.»
+
+\v 28 Ngaku ngéngó enga mi nkundwe ngosa oko Galileya ntóndó lebò.
+
+\v 29 Petelo aotepela: nkia bò bankuma bangowungisa boyambi bôbo ngaku mi ntingó wungisa.
+
+\v 30 Yesu aoyisena nkotepelà sòlo nkoko botió bolenè ntóndó le nkókó mbekabeka mbala bipelé awu ongó nyangala mbala bisàtó wē ntondjébe mi.
+
+\v 31 Ngaku Petelo atépélaké lonkina wembu: la engo yaa itina mbwé mi lawu ntingokonyangala, bankuma batepelaké nko ngaku.
+
+\s Yezu abondeli Nzambe na Jetsemane
+
+\r (Mt 26.36-46; Lk 22.39-46)
+
+\p
+
+\v 32 Ngaku bayia oko ndié emo lina Gethsemane Yesu atepela bayekoli: "Boyaka ané ngéngó ebotitia mi."
+
+\v 33 Afwa Petelo, Zake, la Yoani baléka oko ngomba mbala emo, ayokaka bobonda mbali pé iseyi.
+
+\v 34 Ngaku atepela ndé bobonda bômi bonyota l'iseyi ti oko iwa ngaku boyalaka la nkepò.
+
+\v 35 Ngaku akasisaké wano ntôndó aka tika nkulu babolōngò abotitia akoka nsisé ngéngó le iwa lindé.
+
+\v 36 Atepela aba: "Isé limi awu okoka nkelé mbo binkuma yimua ikopô linè li mbali ngaku nto kélaké one bilanga mi kele oko botindo one lolanga wu."
+
+\p
+
+\v 37 La mbisa ayitiaké oko bayekoli basato ngaku atanaké balé isilò atepela Petelo: "Simona, okotama? Elébé ntoyala tè nkia ngengo emo?"
+
+\v 38 Boyalaka tè pé bobotitia itina boyini ntaemekaké. Nkia bolia boyambi wuké, bolé nkò bató ba mpà wembu.
+
+\p
+
+\v 39 Là mbisa basaké lonkina mbotitia Wangi lonkina nko botindo bo nkindé abotitiaké ntóndó.
+
+\v 40 Ayitiake lonkina oko bayekoli, atanaké balé nko isilò itina besò babô bayalaké bodito ngaku bakambaké lobó lô ntepela.
+
+\p
+
+\v 41 Ngéngó eki ndé ayitiaké mbala l'isató, atépélaké ndè: esia akubôko bobongo la ntama? ekomama itina babeke wana oka botó oko babô baka bató ba basumu.
+
+\v 42 Boyala wema tokendé. Bolenda botó one osónteké abele.
+
+\s Bato bakangi Yezu
+
+\r (Mt 26.47-56; Lk 22.47-53; Yn 18.3-12)
+
+\p
+
+\v 43 Ngengo le tokò Yesu la ntepela, Yuda, omo oka bayekoli diomu la bapelé, abele, ayaké la botó babé wuké, babeleké mpalo, la mboto oko babô. Nkumu leka batumbi mbeka, la balakie be bebeko pe bingambi bato bakoatomaké.
+
+\v 44 Nkani Yuda botó oku oteké Yesu atepela ngane: "Boto one onga mi mbumba ndé ndoku, bôwuta ndé bosa landé, bôkengeleké dilo."
+
+\v 45 Nkokó mbale emo, Yuda asisa mpika la Yesu, boteyi, ngaku pé aoyamba.
+
+\v 46 Ngaku bawuta Yesu, baolala besinga.
+
+\v 47 Omo oka banè bakoliki aku apasoké mpalo lendé abeke botu boka nkumu leka batumbi mbeka itoyi.
+
+\v 48 Yesu ayibola: "Nghamoni nzaa wibi, nghamoni babè mpalo la mboto itina ba mbuté mi?"
+
+\v 49 Nsio binkuma bima mi meteyaké oko lowulu lô Wangi ntabo mbutaké, ngaku binè bikeluama itina, bisakokomama oko benkenda.
+
+\v 50 Ngaku bayekoli bankuma baotwenyaké ndé nkika, balota la lôbò.
+
+\p
+
+\v 51 Nkani elenge emo le welé ayak'obengé Yesu, alataké nko bombuli ntóntó. bakanaké baowuté.
+
+\v 52 Ngaku ndé atwenyaké bombuli pé alotaké bonsele.
+
+\p
+
+\v 53 Ngaku babelaké Yesu oko lowulu loka nkumu le nene eka basoni ba bebeko oko ndié enki bankumu bankumela baka bateyi baka Wangi, bingambi, bateyi bebeko basé njala ndié emo.
+
+\v 54 Petelo aobengaké lambisa-mbisa ti oko lopango loka bateyi baka Wangi, oko ayalaké ansé ndia ba kengeli, batokò la njotò twè.
+
+\p
+
+\v 55 Bankumu baka bateyi baka Wangi la bato bankuma ba boyongano bonène bayalaké la njalola bato babongó mfunda Yesu itina baobekelé etumbu l'iwa ngaku ntaba nkia botó omo yé.
+
+\v 56 Ngaku bato wuké bamoyaké ndimba ndé mbó, ngaku mbo bi bô ntimokolamaké ye.
+
+\v 57 Ngaku bato bankina bayala wema pé la baolimbola mbó nghanè,
+
+\v 58 Toyokaké atepela ndè mi ngoyimba lowulu lô Wangi lone lokókeluamaké la bató, pé oko mbisa eka nsio bisàtó ngoeyinola.
+
+\v 59 Nkia oko lobô lonè, minya bèbo ntékolamaké.
+
+\p
+
+\v 60 Ngaku nkumu eka bateyi baka Wangi ayimuaké ntondó leka bató bankuma atepela Yesu: "Ntoyisené bato anè bako funda la lôbò bé."
+
+\v 61 Ngaku Yesu aliki bio ntayisenaka nkia lobó yè. Nkumu leka bateyi baka Wangi aoyibola lonkina: "Awu lolé masiya wana loka wangi."
+
+\v 62 Yesu akalola: "Elé Mi. Ngaku bongóyene wana oka boto onga ndé ayala oko ndié le lumu mpika la Wangi bô nguya binkuma botindo bo nga nde ayé oko biléngé biliko."
+
+\v 63 Mbala emo nkumu eka bateyi baka Wangi ayokaké iyulu wuké ayatola bisenda bindé pé atepela ibango bè tolia bosenga lonkina la bato bakoliki.
+
+\v 64 Boyoka botindo be bosa ndé atiola wangi, bokanisa bé? Bobankuma batepela ebongò bwe awe.
+
+\p
+
+\v 65 Bato bankina oko eteyi lebò baotwaké nsoi pé la mbola ndé baboto pé? baotepela olé bosakoli okoboli biemba nani?
+
+\s Piere awangani Yezu
+
+\r (Mt 26.69-75; Lk 22.56-62; Yn 18.15-18, 25-27)
+
+\p
+
+\v 66 Ngengo eki Petelo aliki oko eteyi le lo pangó, weto omo ayaké, aku aliki bosali boka nkumu eka bateyi baka Wangi.
+
+\v 67 Ayenéké Petelo ayotò twè, aolenda atepela: "Awu olé wua Yesu boto lô Nazaleta?"
+
+\v 68 Ngaku ndé ayanghalaké, atepela mbò biku, bitepela wu ntiyebe, pé ntiyene itina li bio Simona ayimaké aku asekolo asoyale oko munya bo lopangó ngaku, nkòkò ebekaké.
+
+\v 69 Ngaku weto oku aoyeneké pé atoko ntepela bato bankina bakoliki aku boto onè elé botó lobô.
+
+\v 70 Ngaku Petelo ayanghalaké lonkina oko mbisa eka ngengó nio, banè bakoliki aku baotepela: "Ntasò awu elé emo lebô mpamba yè olé boto lô Galileya."
+
+\v 71 Ngaku Petelo akataké seleka: "Wangi ntiyebe boto oku ntepela nyó."
+
+\v 72 Nkoko ngengo eku nkókó ebekaké mbala bipelé ngaku Petelo abanga ntangela mbo biki Yesu aotepelaké ntondo le nkókó mbeka mbeka mbala bipelé ongonyanghala mbala bisató, nto ndjebe miye Petelo ayalaké liseyi pe abanga ndela lela.
+
+\c 15
+
+\s Yezu na tribinal ya Pilate
+
+\r (Mt 27.1-2,11-14; Lk 23.1-5; Yn 18.28-38)\\
+\p
+
+\v 1 La ntampendu, Bankumu baka Wangi, batumbi ba mbeka pé la ba soni bebeko bayalake ndié emo itina babeke loboloki bawutaka Yesu la ndala ndé besinga, la mbeka ndé pé la mpaende oko babô leka Pilato.
+
+\v 2 Pilato aoyibola: Awu nkumu leka bayuda? Yesu aokalola: "Otépelà?"
+
+\v 3 Bankumu beka Wangi baofundaké la mbo wuké.
+
+\v 4 Pilato aoyibola lonkina, ntokalole nkiaebo? Yoka mbo wuké bisaka bo bakofundaké?
+
+\v 5 Ngaku Yesu nta kalola nkia lobo lomo lonkina, ngaku Pilato akabaké wuké mpenda mpenda.
+
+\s Pilate akateli Yezu etumbu ya liwa
+
+\r (Mt 27.15-26; Lk 23.13-25; Yn 18.39--19.16)
+
+\p
+
+\v 6 Mbala lambala la elia nteko Pilato apasuaké motó omo lo bôlòkò lobondela esuku le bato.
+
+\v 7 Ngaku eyalaké la boto omo lo bolòkò dina dindé Barabas ndela bato bànkin bako tikaka yongo oko ndjaa pe ba diakake boto.
+
+\v 8 Nkoko ngengo eku bato wake boyake nbondela pilato akele botindo besaka nde eyekesa nkelakela.
+
+\v 9 Pilato atepela nde: Bokana mapame nkumu eka bayuda?
+
+\v 10 Itina ayebake; ba nkumu beka Wangi ba paka Yesu oko lende itina la babondo mbe lelo.
+
+\v 11 Ngaku bankumu beka Wangi bakela wembu oko bato litina pilato apame nko Barabas.
+
+\v 12 Pilato a yibola: Ngaku nkela la boto one lo besia nyo nkumu leka bayuda ngamoni?
+
+\v 13 Ba ngahaka bonkina: Diaka nde oko ekulu esu!
+
+\v 14 Pilato a yibola: Lobo be lombe akela. Bobangahaka lonkina diaka nde oko ekulusu.
+
+\v 15 Pilato amo lange ayokie esuku le bato nyinga la ntuenyu Barabas oko ele esuku le bato la ntolisa wale Yesu la mbole nde be mukwa, la ladia nde oko lebo, itina baodiake oko ekulusu.
+
+\s Basoda baseki Yezu
+
+\r (Mt 27.27-31; Yn 19.2-3)
+
+\p
+
+\v 16 Basoda bamo bele Yesu oko eteteyi le pamgo eka Pilato la mbesia esuku leka basoda bankuma.
+
+\v 17 Baobatiake ekoti le nsende oko botu, eki lobo duake.
+
+\v 18 Ngaku baobekake oko ndenge le itio mbote bo kongi boka bayuda.
+
+\v 19 Baobolake wano mboto oko botu, baotua nsoi ngaku bayalake nkuabolongo nkonga baokumusa.
+
+\v 20 Mbisa le nkolo nde, baoyimiake bonkoto, babelele pe baoyisemake bisenda la mbisa baobela oko anki be basake ndiaka nde.
+
+\s Yezu na kuruze
+
+\r (Mt 27.32-44; Lk 23.26-43; Yn 19.17-27)
+
+\p
+
+\v 21 Boto omo loka ndja le Sirene, lina lende Simona ise lika Aleksandre la Rufus, Iyimake oko itia ngaku ayake oleke oko mboka eku: Basoda baotomaka la wembu abele kukusu eka Yesu.
+
+\v 22 Baobelaka oko mue lebesiabo Golgotha, elimbala lokwa lootu.
+
+\v 23 Baopake bana basako lanua la bolo omo mire; Ngaku Yesu nta mineka.
+
+\v 24 Mbisa eku baobakake oko ekulusu ngaku ba ka pa bisenda binde itina la mbetu kio ndjeke itina bayebe esenda be boto la boto akoka mba.
+
+\v 25 Eliki ngengo le lisua lempendu ngengo eki bo baobakake oko ekulusu.
+
+\v 26 Basonke itina liebo linkibo baodiakaka oko wano ibaya ngane: Nkumu eko bayudu.
+
+\v 27 Baobakake nde la beebi bepele ndie emo lande omo oko nkoso lonkina oko mbeli.
+
+\v 28 Ngaku ekeluama ndenge enki kio ekoma make: Baotikake oko balongo oka beebi.
+
+\p
+
+\v 29 Bato ane bako lekaka oko baofukisa oko botu la ntepela bua hee awu boto loko tepela ka nde ongo yimba lowulu lo Wangi la mbisa le nde bisato ongo eyemia.
+
+\v 30 Kabiaka wunkiika oko lue oko ekukuksu.
+
+\v 31 Batumbi ba mbeka labo basoni baoyoloke pe ba tepela: Abikiake, bato nkina ngaku nta koke mbikia nde nkuka.
+
+\v 32 Mkolo enteni nkusumu le isalene kitea oko boko oko ekulusu, itina toyene pe toyanise beebi boko bape biko leki bua Yesu oko ekulusu ngako pe baowundake.
+
+\s Liwa ya Yezu
+
+\r (Mt 27.45-56; Lk 23.44-49; Yn 19.28-30)
+
+\p
+
+\v 33 Nkoyala la midi, mpitamo ekitu be bo longo bonkuma tu oko ngengo le diomo la bitano.
+
+\v 34 Nkoya la ngengo le djamu la bitano Yesu anghoka la iyoyi li wembu: "Eloi, Eloi, lema sabakaton?" Ebibua: "Wangi bomi, Wangi bomi, oso tuenga lobe?"
+
+\v 35 Bato bankina bako liki oko baoyoka be nyako botepela: "Boyoka abesua bosakoli Elia."
+
+\v 36 Bato omo asake loba mpo yotie iyuka la basumu ba ntangi, ai loke oko nsoli le mbote aopa Yesu nde omi ne. Mpako atepela: "Konpo to lende la Elia ango ya nyinue nile oko okulusu."
+
+\v 37 Nko yeko Yesu a nghata wumbu mpenda pemba pe asukua bo bonda.
+
+\p
+
+\v 38 Mpako lido le bosene oko liki oko lowu lo Wangi eyauake biteni bi pe, yuma okoi liko tu oko use.
+
+\v 39 Koke ngengo eko nkumu eko basoda aliki wema oko ntondo eka Yesu, ayene ngenge esa nde asukua bo bo nde atepua nde: Nta so ale Wana oka Wangi."
+
+\p
+
+\v 40 Eliki la beto bamo bako liki bema, baotenda oko bele oko eteyi leka beto oki mali le Magdala, Mali ngo leka Zake le elengi la eka Zote, pa Saloma.
+
+\v 41 Bileto aku bomo burgake Yesu pe bamotielake ngengo eki nde aliki kio Galieja, beka bankina pe bayalake oko, bayake losele bo la Yesu oko Yelusalem.
+
+\s Ndenge Yezu akundamaki
+
+\r (Mt 27.57-61; Lk 23.50-56; Yn 19.38-42)
+
+\p
+
+\v 42 Naaku ikolo liyaake, ngengo letoko ba la ndengele losio loyenga,
+
+\v 43 Yosefu le ndja Arimate abee, ayalake boto lo lumu oko boyongano baka bayuda. Ngekitu ntayebake nde Wangi abongo mpa nde bonkumu asake oko Pilato la wembu nbondela ebembe leka Yesu.
+
+\v 44 Ngatu Pilato akabate ngengo eka nde Yesu asowa. Nfaku abesiake nkumu eka basoda, aoyila nde la Yesu asowa edie.
+
+\v 45 Ngengo eki nkumu eka basoda aotepela ke, Pilato apake Yosefu mboke le mposo ebembe.
+
+\v 46 Yosefu asombake esenda le dilo, akesena ebembe leka Yesu oko ekulusu ake linga oko esenda eku ngaku ake yotia oko ibulu linke nde atemake oko bawe ngaku a sikomuake ine imo dionene pa akanga numya boka elomba.
+
+\v 47 Malia le Magdala la ndoi le nde Malia mgo leka Zoze, bale ndake ndie esa baokunda.
+
+\c 16
+
+\s Yezu asekwi
+
+\r (Mt 28.1-8; Lk 24.1-12; Yn 20.1-10)\\
+\p
+
+\v 1 Ngengo eki losio sabata loleka, Mari le magdala, la Mari nyango eka Jake, pé Salome basombaké malasi itina basé ndiisa Yesu.
+
+\v 2 Ngaku la nta mpendu, l'eyenga, ngengo enki mwané bobanga mpaswa, baleka oko ilengi.
+
+\v 3 Basako tepela oko mboka bwè boto ongoyimia iwé oko munya bó ilengi nani?
+
+\v 4 Balenda bayene nkoko iwé disakiyima, Iwè lidiki bonène wuké.
+
+\v 5 Ngengo eki bô bayotuaak oko eteyi le ilengi, bayene elenge emo le welé alé ansé oko lobô lô ndeli asakolata esenda le mbenza pé bakaba.
+
+\v 6 Ndé pé atepela ndia bô ndè: ntokabaké, bayenga Yesu le nazareta onè eki badiakaké oko ingengola, ndé okoso kundwa, ntambe anè; bolenda ndié enki bô baotikaké.
+
+\v 7 Baleka leka ntepela bayekoli baa ndé, Petelo nyue angoleka ntondo lenyo oko Galileya. bongoyene oko nkonga botindo booki ndé atepelaké.
+
+\v 8 Bapasuake, balota oko ilengi, bôomo la basakana, ntatepelaka nkia boto lobô loko, itina bayaaké la boomô.
+
+\s Yezu abimeli Maria ya Magdala
+
+\r (Mt 28.9-10; Yn 20.11-18)
+
+\p
+
+\v 9 Osa Yesu akundua la mpendu oka losio lô ntondo loka poso, ayenée ntondo ndia Mari magdala, onè oki Yesu apaswaké belimo bée bé besambilé.
+
+\v 10 Aleka ndjebia nsango oko banè bakoliki là ndé oko ngengo eki bô badiki lèlô balela la isei.
+
+\v 11 Ngengo eki bô bayokaké bwè Yesu aléa lobiko, pé baoyené, baboya ndjamba yamba.
+
+\s Yezu abimeli bayakoli mibale
+
+\r (Lk 24.13-35)
+
+\p
+
+\v 12 Mbis'eka binkuma, ayenéeké botindo bonkina oko babô bapée ngengo eki bô basako kendé oko itia.
+
+\v 13 Balangaké basotepela bàamô ba mpatoya mboké.
+
+\p
+
+\v 14 Mbisa, ayenè ndia ba-diomu l'emo ngengo eki bô badiki oko mesa; akasola ibango la biango la pé bebonda wembu bè bô banè bampa toyambaka mbisa eko Yesu nkundua.
+
+\v 15 Atepela ndè, boleka nteya nsango le dilo oko bolongo bonkuma, oko bato bankuma.
+
+\v 16 Onè oso yamba, bao yina pe ango bika, onè ompa ntoyambii ntango bika, angoyala oko mbabali.
+
+\v 17 Lenda binkemola bingo yala la boyambi oko dina diimi, bango komba belimo bée bé, bango tepela bayoyi baa bosaba;
+
+\v 18 Bangota ndjoo, là basomina pwazo ntengoakela walé ye, bango nangia ba bô oko bato ba bialé bango bakia.
+
+\s Yezu atombwani na Likolo
+
+\r (Luke 24.50-53; Misala 1.9-11)
+
+\p
+
+\v 19 Ngengo leki Yesu aseya tepela mbo biku, anangwama, ekeya oko diko, alé ansé oko lobô lo ndeli loka Wangi.
+
+\v 20 Bayekoli pé baleka mpandja nsango le dilo ndié bi nkuma. Nkolo ayaké ndia bô, bakiaké bienua wuké la mpaa nguya oko bateyo báa ndé.
