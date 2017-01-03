@@ -1,4 +1,3 @@
-\id 42mrk Kesengele [szg] Sengele - Bandundu
 
 \ide usfm “Export to File” from translationStudio
 
