@@ -1,31 +1,17 @@
-\id 42mrk Kesengele [szg] Sengele - Bandundu
-
+\id 42MRK Mark - Kesengele [szg] Sengele - Bandundu
 \ide usfm “Export to File” from translationStudio
-
-\sts First draft, MAST, Kinshasa, 4-16 April 2016
-
-\rem From Unlocked Literal Bible, including Mark 16:9-20, and does not follow versification of the old French Louis Segond for Mark 9:51 and 10:53
-
-\rem Association Congolaise pur la Traductions de la Bible (ACTB) - Stanislas Nzita <nzitastanislas@hotmail.fr> and Melhase Belanga <melhasebel@yahoo.fr>
-
-\rem Subtitles (\s) inserted from [lin] Lingala translation (need to be translated into Kesengele)
-
-\rem  Parallel passages (\r) inserted from [lin] Lingala translation (need to be adapted to Kesengele abbreviations)
-
-\rem Paragraphing (\p) inserted from [lin] Lingala translation (needs checking for Kesengele)
-
-\rem Versification (\v) needs checking for placement)
-
+\sts First draft through verse-by-verse check of Mark, MAST, Kinshasa, 4-16 April 2016 - Needs to move on to community check
+\rem From Unlocked Literal Bible, but includes Mark 7:16, 9:44, 9:46, 11:26, 15:28 and 16:9-20, and does not follow versification of the old French Louis Segond for Mark 9:51 and 10:53
+\rem Association Congolaise pur la Traductions de la Bible (ACTB) - Contacts: Stanislas Nzita nzitastanislas@hotmail.fr and Melhase Belanga melhasebel@yahoo.fr
+\rem Subtitles (\s), inserted from [lin] Lingala translation, need to be translated into Kesengele
+\rem Parallel passages (\r), inserted from [lin] Lingala translation, need to be adapted to Kesengele abbreviations
+\rem Paragraphing (\p), inserted from [lin] Lingala translation, needs checking for Kesengele
+\rem Versification (\v) needs checking for placement
 \rem Quotation marks need to be checked for use and matched pairs
-
 \h Makolo
-
 \toc1 Makolo
-
 \toc2 Makolo
-
 \toc3 mak
-
 \mt Makolo
 
 \c 1
